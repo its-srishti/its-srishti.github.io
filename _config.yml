@@ -112,3 +112,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Enable custom CSS
+sass:
+  style: compressed
+
+# Add this line:
+custom_css: "/assets/css/custom.css"
