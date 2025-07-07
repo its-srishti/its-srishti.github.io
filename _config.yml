@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Story Teller
 twitter_username: username
 github_username: its-srishti
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
