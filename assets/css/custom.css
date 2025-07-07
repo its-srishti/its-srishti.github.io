@@ -1,6 +1,11 @@
+/* Sidebar / Profile Avatar */
 .author__avatar {
-  width: 200px !important;  /* Change this number to make it bigger or smaller */
-  height: 200px !important;
-  border-radius: 50%; /* keeps the image circular */
+  width: 160px !important;
+  height: 160px !important;
 }
 
+/* Post or Page Header Avatar */
+.page__hero--overlay .author__avatar {
+  width: 160px !important;
+  height: 160px !important;
+}
