@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Story Teller
 twitter_username: username
 github_username: its-srishti
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Srishti Tripathy"
-  avatar : "assets/images/IMG-20220725-WA0031 (1).jpg"
+  avatar : "assets/images/WhatsApp Image 2025-07-07 at 8.08.55 PM (1).jpg"
   bio    : "To Serve. To Create. To Be Free"
   links:
     - label: "Website"
