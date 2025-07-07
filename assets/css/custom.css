@@ -1,11 +1,20 @@
-/* Sidebar / Profile Avatar */
+/* Sidebar avatar */
 .author__avatar {
   width: 160px !important;
   height: 160px !important;
+  border-radius: 50%;
 }
 
-/* Post or Page Header Avatar */
+/* For hero image avatar if needed */
 .page__hero--overlay .author__avatar {
   width: 160px !important;
   height: 160px !important;
+  border-radius: 50%;
+}
+
+/* Force override image size */
+img.u-photo {
+  width: 160px !important;
+  height: 160px !important;
+  border-radius: 50%;
 }
