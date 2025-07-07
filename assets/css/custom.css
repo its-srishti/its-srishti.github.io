@@ -1,5 +1,5 @@
 .author__avatar {
-  width: 150px !important;  /* Change this number to make it bigger or smaller */
+  width: 200px !important;  /* Change this number to make it bigger or smaller */
   height: 150px !important;
   border-radius: 50%; /* keeps the image circular */
 }
