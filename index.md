@@ -64,7 +64,7 @@ permalink: /
 </style>
 
 <div class="homepage-container">
-  <img src="/assets/images/profile.jpg" alt="Srishti Tripathy">
+  <img src="/assets/images/Untitled design.png" alt="Srishti Tripathy">
 
   <h1>Hi, I'm Srishti</h1>
 
