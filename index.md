@@ -19,8 +19,8 @@ permalink: /
 
   .homepage-container img {
     border-radius: 50%;
-    width: 180px;
-    height: 180px;
+    width: 250px;
+    height: 250px;
     object-fit: cover;
     box-shadow: 0 0 15px rgba(0,0,0,0.3);
   }
@@ -59,7 +59,7 @@ permalink: /
   }
 
   .homepage-button a:hover {
-    background-color: #005f99;
+    background-color: #003f5c;
   }
 </style>
 
