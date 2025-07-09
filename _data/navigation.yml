@@ -1,9 +1,12 @@
 main:
-- title: "Home"
+  - title: "Home"
     url: /
-  - title: "Blogs"
+
+  - title: "Blog"
     url: /posts/
-  - title: "About"
-    url: /about/
+
   - title: "Projects"
     url: /projects/
+
+  - title: "About"
+    url: /about/
