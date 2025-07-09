@@ -51,7 +51,7 @@ permalink: /
   .homepage-button a {
     display: inline-block;
     padding: 0.6rem 1.2rem;
-    background-color: #003f5c;
+    background-color: #005577;
     color: white;
     text-decoration: none;
     border-radius: 6px;
