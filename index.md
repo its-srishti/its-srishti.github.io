@@ -1,43 +1,66 @@
-layout: splash
-title: "Srishti Tripathy"
+---
+layout: page
+title: "Home"
 permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/banner.jpg
-  actions:
-    - label: "Read My Blog"
-      url: "/blog/"
-    - label: "View Projects"
-      url: "/projects/"
-excerpt: "Exploring Economics, Finance, and the Global Mindset."
 ---
 
 <style>
-.fade-in {
-  opacity: 0;
-  animation: fadeIn 2s ease-in forwards;
-}
-
-@keyframes fadeIn {
-  to {
-    opacity: 1;
+  .homepage-container {
+    text-align: center;
+    margin-top: 3rem;
   }
-}
+  .homepage-container img {
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  }
+  .homepage-container h1 {
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: 700;
+  }
+  .homepage-container p.lead {
+    font-size: 1.1rem;
+    margin: 1rem auto;
+    max-width: 600px;
+  }
+  .homepage-container em {
+    display: block;
+    margin-top: 1rem;
+    font-style: italic;
+    color: #aaa;
+  }
+  .homepage-button {
+    margin-top: 2rem;
+  }
+  .homepage-button a {
+    display: inline-block;
+    padding: 0.6rem 1.2rem;
+    background-color: #005577;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+  }
+  .homepage-button a:hover {
+    background-color: #003f5c;
+  }
 </style>
 
-<div class="fade-in" align="center">
+<div class="homepage-container">
+  <img src="/assets/images/Untitled design.png" alt="Srishti Tripathy">
 
-<img src="/assets/images/Untitled design.png" alt="Srishti Tripathy" width="180" style="border-radius: 50%; margin-bottom: 1rem; box-shadow: 0 0 15px rgba(0,0,0,0.2);" />
+  <h1>Hi, I'm Srishti</h1>
 
-# Hi, I'm Srishti
+  <p class="lead">
+    I am an economics and finance researcher passionate about decoding the world’s most pressing challenges. My work lies at the intersection of global macro trends, data analysis, and policy insight — bridging complex ideas and real-world impact.
+  </p>
 
-**Economics | Finance | Global Thinking**
+  <em>"I write about how the world works — and sometimes, how it doesn’t."</em>
 
-[View Blog](/blog/) &nbsp;&nbsp;&nbsp; [See Projects](/projects/)
-
-<br>
-
-<em>"I write about how the world works—and sometimes, how it doesn’t."</em>
-
+  <div class="homepage-button">
+    <a href="/blog/">Explore My Writings</a>
+  </div>
 </div>
