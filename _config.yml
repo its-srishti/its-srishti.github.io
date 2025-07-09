@@ -120,9 +120,7 @@ sass:
 
 # Add this line:
 custom_css: "/assets/css/custom.css"
-
-# Navigation
-navigation:
-  main: main
-
 theme: minimal-mistakes-jekyll
+
+navigation:
+  main: main  # Tells the theme to use _data/navigation.yml → main
