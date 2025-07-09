@@ -28,7 +28,7 @@ excerpt: "Exploring Economics, Finance, and the Global Mindset."
 
 <div class="fade-in" align="center">
 
-<img src="/assets/images/profile.jpg" alt="Srishti Tripathy" width="180" style="border-radius: 50%; margin-bottom: 1rem; box-shadow: 0 0 15px rgba(0,0,0,0.2);" />
+<img src="/assets/images/Untitled design.png" alt="Srishti Tripathy" width="180" style="border-radius: 50%; margin-bottom: 1rem; box-shadow: 0 0 15px rgba(0,0,0,0.2);" />
 
 # Hi, I'm Srishti
 
