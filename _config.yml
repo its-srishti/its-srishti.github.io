@@ -31,13 +31,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
-# Use index.md as homepage
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: splash
-
 
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -128,7 +121,3 @@ sass:
 
 # Add this line:
 custom_css: "/assets/css/custom.css"
-theme: minimal-mistakes-jekyll
-
-navigation:
-  main: main  # Tells the theme to use _data/navigation.yml → main
