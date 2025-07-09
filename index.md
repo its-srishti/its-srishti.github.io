@@ -61,6 +61,6 @@ permalink: /
   <em>"I write about how the world works — and sometimes, how it doesn’t."</em>
 
   <div class="homepage-button">
-    <a href="/blog/">Explore My Writings</a>
+    <a href="/posts/">Explore My Writings</a>
   </div>
 </div>
