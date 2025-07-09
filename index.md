@@ -59,7 +59,7 @@ permalink: /
   }
 
   .homepage-button a:hover {
-    background-color: #005577;
+    background-color: #003f5c;
   }
 </style>
 
