@@ -125,3 +125,4 @@ custom_css: "/assets/css/custom.css"
 navigation:
   main: main
 
+theme: minimal-mistakes-jekyll
