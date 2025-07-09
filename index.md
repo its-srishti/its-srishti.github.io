@@ -5,10 +5,18 @@ permalink: /
 ---
 
 <style>
+  body {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+  }
+
   .homepage-container {
     text-align: center;
-    margin-top: 3rem;
+    margin: 10vh auto;
+    max-width: 700px;
+    padding: 2rem;
   }
+
   .homepage-container img {
     border-radius: 50%;
     width: 180px;
@@ -16,41 +24,47 @@ permalink: /
     object-fit: cover;
     box-shadow: 0 0 15px rgba(0,0,0,0.3);
   }
+
   .homepage-container h1 {
     margin-top: 1rem;
     font-size: 2rem;
     font-weight: 700;
   }
+
   .homepage-container p.lead {
     font-size: 1.1rem;
     margin: 1rem auto;
     max-width: 600px;
   }
+
   .homepage-container em {
     display: block;
     margin-top: 1rem;
     font-style: italic;
-    color: #aaa;
+    color: #ccc;
   }
+
   .homepage-button {
     margin-top: 2rem;
   }
+
   .homepage-button a {
     display: inline-block;
     padding: 0.6rem 1.2rem;
-    background-color: #005577;
+    background-color: #007acc;
     color: white;
     text-decoration: none;
     border-radius: 6px;
     transition: background-color 0.3s ease;
   }
+
   .homepage-button a:hover {
-    background-color: #003f5c;
+    background-color: #005f99;
   }
 </style>
 
 <div class="homepage-container">
-  <img src="/assets/images/Untitled design.png" alt="Srishti Tripathy">
+  <img src="/assets/images/profile.jpg" alt="Srishti Tripathy">
 
   <h1>Hi, I'm Srishti</h1>
 
@@ -61,6 +75,6 @@ permalink: /
   <em>"I write about how the world works — and sometimes, how it doesn’t."</em>
 
   <div class="homepage-button">
-    <a href="/posts/">Explore My Writings</a>
+    <a href="/posts/">Explore More</a>
   </div>
 </div>
