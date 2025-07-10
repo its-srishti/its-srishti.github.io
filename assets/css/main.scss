@@ -40,10 +40,13 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.5px;
 }
 
-// Sidebar Name, Bio, and Social Links
+//Sidebar Name, Bio, and Social Links
 .author__name,
 .author__bio,
-.author__urls li {
+.author__bio p,
+.author__urls,
+.author__urls li,
+.author__urls li a {
   font-family: "Lora", serif !important;
   font-size: 0.95rem;
   line-height: 1.5;
