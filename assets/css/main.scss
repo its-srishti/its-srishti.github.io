@@ -40,21 +40,16 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.5px;
 }
 
-//Sidebar Name, Bio, and Social Links
-.sidebar .author__name {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
+// ✅ Sidebar Name, Bio, and Social Links
+.author__name,
 .author__bio,
 .author__bio p,
 .author__urls,
 .author__urls li,
 .author__urls li a {
   font-family: "Lora", serif !important;
-  font-size: 0.8rem;
-  font-weight: lighter;
-  line-height: 1;
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 
 .archive__item-title {
@@ -63,4 +58,27 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   text-align: center;
   text-transform: capitalize;
+}
+
+/* Center name under profile photo */
+.sidebar .author__content {
+  text-align: center;
+}
+
+.author__name {
+  display: block;
+  font-family: "Cheltenham", serif !important;
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+/* Resize and center profile picture */
+.sidebar .author__avatar img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
 }
