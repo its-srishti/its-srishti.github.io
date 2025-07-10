@@ -1,4 +1,4 @@
 layout: archive
-title: "Projects"
+title: "PROJECTS"
 permalink: /projects/
 author_profile: true
