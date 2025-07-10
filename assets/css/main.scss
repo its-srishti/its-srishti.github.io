@@ -73,3 +73,13 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0.5rem;
 }
 
+/* Hide profile photo on all pages */
+.sidebar .author__avatar img {
+  display: none;
+}
+
+/* BUT show it on Home and About */
+.page--home .sidebar .author__avatar img,
+.page--about .sidebar .author__avatar img {
+  display: block;
+}
