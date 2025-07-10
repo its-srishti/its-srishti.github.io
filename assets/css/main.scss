@@ -41,7 +41,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 //Sidebar Name, Bio, and Social Links
-.author__name,
+.author__name {
+  text-align: center;
+  display: block;
+}
 .author__bio,
 .author__bio p,
 .author__urls,
