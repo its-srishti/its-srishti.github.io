@@ -78,8 +78,11 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
-/* BUT show it on Home and About */
-.page--home .sidebar .author__avatar img,
-.page--about .sidebar .author__avatar img {
+/* Show photo only when author_profile is explicitly true (i.e., Home & About) */
+.author__avatar + .author__content {
+  display: block;
+}
+
+.page__meta .author__avatar img {
   display: block;
 }
