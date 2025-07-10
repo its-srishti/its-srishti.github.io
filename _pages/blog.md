@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Blog
+title: BLOG
 permalink: /blog/
 collection: posts
 entries_layout: list
