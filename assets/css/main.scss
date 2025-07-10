@@ -73,16 +73,13 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0.5rem;
 }
 
-/* Hide profile photo on all pages */
+/* ✅ Hide profile picture (but not the sidebar) everywhere */
 .sidebar .author__avatar img {
-  display: none;
+  display: none !important;
 }
 
-/* Show photo only when author_profile is explicitly true (i.e., Home & About) */
-.author__avatar + .author__content {
-  display: block;
-}
-
-.page__meta .author__avatar img {
-  display: block;
+/* ✅ Show profile picture only on pages with author_profile: true (Home & About) */
+.page__home .sidebar .author__avatar img,
+.page__about .sidebar .author__avatar img {
+  display: block !important;
 }
