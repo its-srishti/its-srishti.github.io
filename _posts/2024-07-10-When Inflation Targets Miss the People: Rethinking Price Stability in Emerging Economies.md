@@ -1,7 +1,13 @@
+---
 title: "When Inflation Targets Miss the People: Rethinking Price Stability in Emerging Economies"
-date: 2024-07-10
-categories: [Economics]
-tags: [inflation, emerging economies, price stability]
+last_modified_at: 2024-07-10
+categories:
+  - Economics
+tags:
+  - Inflation
+  - Emerging Economies
+  - Price Stability
+---
 
 In 2022, over 40 emerging economies battled inflation rates above 10%, but few stories were as raw as that of Sri Lanka, where inflation crossed 60%, and hospitals ran out of medicine. Amid spiraling food and fuel prices, central banks around the world clung to a single prescription: price stability. It sounded noble. But as interest rates soared and public services shrank, a quiet question began to rise from the margins: Who is stability really for? And what happens when the pursuit of macroeconomic order forgets the people it was meant to protect?
 
