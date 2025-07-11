@@ -1,6 +1,5 @@
 ---
 title: "When Inflation Targets Miss the People: Rethinking Price Stability in Emerging Economies"
-last_modified_at: 2024-07-10
 categories:
   - Economics
 tags:
