@@ -14,6 +14,21 @@ For decades, the gold standard of monetary policy has been “inflation targetin
 
 Consider this: in rural India or urban Nigeria, over 60% of household income goes to food and fuel. These are also the sectors most vulnerable to supply shocks—crop failure, global oil spikes, or disruptions like COVID. When inflation in these sectors rises, central banks often respond by raising interest rates to cool down the economy—even if the cause is not excess demand but external or supply-side shocks.
 
+<div style="text-align: center; margin: 2rem 0;">
+
+  <!-- ✅ Data Source Caption (top) -->
+  <p style="font-size: 0.9rem; color: #777; margin-bottom: 1rem; text-align: justify;">
+    <strong>Data Source:</strong> World Bank
+  </p>
+
+  <!-- ✅ Centered Image -->
+  <img src="/assets/images/Picture1.png" alt="Unemployment and Inflation Rates in India Over the Past 14 Years" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 0 auto;">
+
+  <!-- ✅ Figure Caption (bottom) -->
+  <p style="font-size: 0.9rem; color: #777; margin-top: 0.5rem;"><em>India achieved price stability after adopting inflation targeting in 2016—but it didn’t achieve employment stability. This decoupling shows that monetary policy cannot carry the weight of inclusive growth alone. Unemployment isn’t just a side effect, it’s an economic failure that price stability often overlooks.</em></p>
+
+</div>
+
 But here’s the trap: raising rates doesn’t make onions cheaper. It doesn’t bring down fuel prices set by international markets. What it does do is slow down credit, increase borrowing costs for governments, and squeeze small businesses. In Brazil and Nigeria, aggressive rate hikes in 2022–2023 had limited effects on inflation but significantly worsened job markets and public deficits.
 
 Meanwhile, inflation targeting often pushes governments to cut fiscal spending, for fear of stoking prices further. This can lead to undermining essential services—healthcare, education, employment programs. As inflation drops on paper, the real economy may be bleeding. And the poor, once again, are left to pay for the illusion of “stability.”
@@ -26,10 +41,3 @@ Additionally, fiscal and monetary coordination must replace the current “don�
 Ultimately, price stability should not be seen as an abstract goal. It is a tool, a means to improve well-being, not a number to be worshipped. And when that number comes at the cost of rising inequality or social despair, we must question who the system is really serving.
 
 When inflation targets become a scoreboard for policymakers, the scoreboard can start mattering more than the match. Price stability is not the destination—it’s the road. And roads are only worth taking if they lead people somewhere better.
-
-**Data Source:** World Bank
-
-<figure>
-  <img src="/assets/images/Picture1.png" alt="Unemployment and Inflation Rates in India Over the Past 14 Years" style="width:100%; max-width:700px;">
-  <figcaption><em>India achieved price stability after adopting inflation targeting in 2016—but it didn’t achieve employment stability. This decoupling shows that monetary policy cannot carry the weight of inclusive growth alone. Unemployment isn’t just a side effect, it’s an economic failure that price stability often overlooks.</em></figcaption>
-</figure>
