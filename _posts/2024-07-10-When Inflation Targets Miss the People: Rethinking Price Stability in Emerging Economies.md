@@ -17,7 +17,7 @@ Consider this: in rural India or urban Nigeria, over 60% of household income goe
 <div style="text-align: center; margin: 2rem 0;">
 
   <!-- ✅ Data Source Caption (top) -->
-  <p style="font-size: 0.9rem; color: #777; margin-bottom: 1rem; text-align: justify;">
+  <p style="font-size: 0.9rem; color:D7D9E0; margin-bottom: 1rem; text-align: justify;">
     <strong>Data Source:</strong> World Bank
   </p>
 
