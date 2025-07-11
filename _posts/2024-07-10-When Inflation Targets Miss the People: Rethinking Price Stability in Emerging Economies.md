@@ -26,3 +26,10 @@ Additionally, fiscal and monetary coordination must replace the current “don�
 Ultimately, price stability should not be seen as an abstract goal. It is a tool, a means to improve well-being, not a number to be worshipped. And when that number comes at the cost of rising inequality or social despair, we must question who the system is really serving.
 
 When inflation targets become a scoreboard for policymakers, the scoreboard can start mattering more than the match. Price stability is not the destination—it’s the road. And roads are only worth taking if they lead people somewhere better.
+
+**Data Source:** World Bank
+
+<figure>
+  <img src="/assets/images/Picture1.png" alt="Unemployment and Inflation Rates in India Over the Past 14 Years" style="width:100%; max-width:700px;">
+  <figcaption><em>India achieved price stability after adopting inflation targeting in 2016—but it didn’t achieve employment stability. This decoupling shows that monetary policy cannot carry the weight of inclusive growth alone. Unemployment isn’t just a side effect, it’s an economic failure that price stability often overlooks.</em></figcaption>
+</figure>
