@@ -17,7 +17,7 @@ Consider this: in rural India or urban Nigeria, over 60% of household income goe
 <div style="text-align: center; margin: 2rem 0;">
 
   <!-- ✅ Data Source Caption (top) -->
-  <p style="font-size: 0.9rem; color:D7D9E0; margin-bottom: 1rem; text-align: justify;">
+  <p style="font-size: 0.9rem; color:E8D8C3; margin-bottom: 1rem; text-align: justify;">
     <strong>Data Source:</strong> World Bank
   </p>
 
@@ -25,7 +25,7 @@ Consider this: in rural India or urban Nigeria, over 60% of household income goe
   <img src="/assets/images/Picture1.png" alt="Unemployment and Inflation Rates in India Over the Past 14 Years" style="max-width: 700px; width: 100%; height: auto; display: block; margin: 0 auto;">
 
   <!-- ✅ Figure Caption (bottom) -->
-  <p style="font-size: 0.9rem; color: D7D9E0; margin-top: 0.5rem;"><em>India achieved price stability after adopting inflation targeting in 2016—but it didn’t achieve employment stability. This decoupling shows that monetary policy cannot carry the weight of inclusive growth alone. Unemployment isn’t just a side effect, it’s an economic failure that price stability often overlooks.</em></p>
+  <p style="font-size: 0.9rem; color: E8D8C3; margin-top: 0.5rem;"><em>India achieved price stability after adopting inflation targeting in 2016—but it didn’t achieve employment stability. This decoupling shows that monetary policy cannot carry the weight of inclusive growth alone. Unemployment isn’t just a side effect, it’s an economic failure that price stability often overlooks.</em></p>
 
 </div>
 
