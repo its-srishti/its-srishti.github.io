@@ -127,3 +127,43 @@ sass:
 # Add this line:
 custom_css: "/assets/css/custom.css"
 
+.archive__item img {
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  object-fit: cover;
+  width: 100%;
+  height: 200px;
+}
+
+/* Card-like styling for grid entries */
+.archive__item {
+  background-color: #1f1f1f; /* Dark card background */
+  border-radius: 10px;       /* Rounded corners */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Subtle shadow */
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Add hover effect */
+.archive__item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* Image inside each card */
+.archive__item img {
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  object-fit: cover;
+  width: 100%;
+  height: 200px;
+}
+
+/* Center align the title below teaser image */
+.archive__item .archive__item-title {
+  text-align: center;
+  font-family: "Cheltenham", serif;
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+}
