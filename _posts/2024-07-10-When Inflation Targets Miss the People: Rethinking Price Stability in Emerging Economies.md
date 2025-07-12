@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "When Inflation Targets Miss the People: Rethinking Price Stability in Emerging Economies"
 categories:
   - Economics
