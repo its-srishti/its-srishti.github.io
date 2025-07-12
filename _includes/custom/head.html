@@ -1,2 +1,22 @@
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const grid = document.querySelector('.archive');
+    const rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap'));
+    const rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
+
+    const resizeAllGridItems = () => {
+      const allItems = document.querySelectorAll(".archive__item");
+      allItems.forEach(item => {
+        const content = item.querySelector(".archive__item-content") || item;
+        const contentHeight = content.getBoundingClientRect().height;
+        const rowSpan = Math.ceil((contentHeight + rowGap) / (rowHeight + rowGap));
+        item.style.gridRowEnd = `span ${rowSpan}`;
+      });
+    };
+
+    window.addEventListener("resize", resizeAllGridItems);
+    resizeAllGridItems();
+  });
+</script>
