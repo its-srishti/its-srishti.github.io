@@ -2,6 +2,6 @@
 layout: collection
 permalink: /blog/
 collection: posts
-entries_layout: grid
+entries_layout: masonry
 classes: wide
 ---
