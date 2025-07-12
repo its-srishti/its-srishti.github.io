@@ -127,6 +127,3 @@ sass:
 # Add this line:
 custom_css: "/assets/css/custom.css"
 
-collections:
-  posts:
-    output: true
