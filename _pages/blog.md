@@ -1,7 +1,7 @@
 ---
-layout: default
-title: "Blog"
+layout: collections
 permalink: /blog/
+collection: posts
+entries_layout: grid
+classes: wide
 ---
-
-{% include custom/archive-grid-item.html %}
