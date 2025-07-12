@@ -107,23 +107,33 @@ h1, h2, h3, h4, h5, h6 {
   height: 200px;
 }
 
-/* Card-like styling for grid entries */
+/* Layout container tweaks */
+.archive {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  justify-content: center;
+}
+
+/* Card width and spacing */
 .archive__item {
-  background-color: #1f1f1f; /* Dark card background */
-  border-radius: 10px;       /* Rounded corners */
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Subtle shadow */
+  flex: 1 1 300px;
+  max-width: 350px;
+  background-color: #1f1f1f;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   padding: 1.5rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0.8rem;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Add hover effect */
+/* Hover animation */
 .archive__item:hover {
   transform: translateY(-5px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
 }
 
-/* Image inside each card */
+/* Blog thumbnail image */
 .archive__item img {
   border-radius: 8px;
   margin-bottom: 1rem;
@@ -132,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 200px;
 }
 
-/* Center align the title below teaser image */
+/* Blog post title styling */
 .archive__item .archive__item-title {
   text-align: center;
   font-family: "Cheltenham", serif;
