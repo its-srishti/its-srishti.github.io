@@ -85,29 +85,24 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
 }
 
-/* Container: Masonry Grid */
+/* Layout container tweaks */
 .archive {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  grid-auto-rows: 10px;
-  gap: 1rem;
-  justify-items: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  justify-content: center;
 }
 
-/* Each Post/Card */
+/* Card width and spacing */
 .archive__item {
+  flex: 1 1 300px;
+  max-width: 350px;
   background-color: #1f1f1f;
   border-radius: 10px;
-  padding: 1rem;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  padding: 1.5rem;
+  margin-bottom: 0.8rem;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  display: block;
-  overflow: hidden;
-}
-
-/* This class will be used to resize height dynamically */
-.archive__item-content {
-  padding: 0.2rem;
 }
 /* Hover animation */
 .archive__item:hover {
