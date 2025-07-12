@@ -1,7 +1,6 @@
 ---
-layout: collection
+layout: default
+title: "Blog"
 permalink: /blog/
-collection: posts
-entries_layout: grid
-classes: wide
 ---
+
