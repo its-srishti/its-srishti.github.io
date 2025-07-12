@@ -85,45 +85,19 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
 }
 
-/* Layout container tweaks */
-.archive {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.2rem;
-  justify-content: center;
+/* 🧱 Pinterest-style Masonry Grid Layout */
+.masonry {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 1.5rem;
+  grid-auto-rows: 10px;
 }
 
-/* Card width and spacing */
-.archive__item {
-  flex: 1 1 300px;
-  max-width: 350px;
-  background-color: #1f1f1f;
-  border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+.masonry-item {
+  background: var(--background-color, #222); /* fallback */
   padding: 1.5rem;
-  margin-bottom: 0.8rem;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-/* Hover animation */
-.archive__item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
-}
-
-/* Blog thumbnail image */
-.archive__item img {
-  border-radius: 8px;
-  margin-bottom: 1rem;
-  object-fit: cover;
-  width: 100%;
-  height: 200px;
-}
-
-/* Blog post title styling */
-.archive__item .archive__item-title {
-  text-align: center;
-  font-family: "Cheltenham", serif;
-  font-size: 1.2rem;
-  margin-top: 0.5rem;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  display: block;
+  break-inside: avoid;
 }
