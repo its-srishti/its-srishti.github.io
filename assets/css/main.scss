@@ -187,41 +187,40 @@ h1, h2, h3, h4, h5, h6 {
   flex-wrap: wrap;
   justify-content: center;
   gap: 1.5rem;
+  padding: 2rem 1rem; /* Adds spacing at the top */
 }
 
 .archive__item {
   width: 300px;
-  height: 400px; /* fixed height for uniform boxes */
+  height: auto; /* Let height grow with content */
   background-color: #1f1f1f;
   border-radius: 10px;
   overflow: hidden;
+  padding: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+.archive__item-teaser img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 5px;
 }
 
 .archive__item-title {
   font-family: "Cheltenham", serif;
-  font-size: 1.1rem;
-  font-weight: bold;
+  font-size: 1.2rem;
   text-align: center;
-  text-decoration: none; /* removes underline */
-}
-
-.archive__item-title a {
-  color: inherit;
-  text-decoration: none !important;
-}
-
-.archive__item-title a:hover {
+  font-weight: bold;
   text-decoration: none;
+  margin-top: 0.75rem;
 }
 
-.archive__item img {
-  height: 180px;
-  object-fit: cover;
-  border-radius: 6px;
-  width: 100%;
-  margin-bottom: 0.5rem;
+.archive__item-meta {
+  font-size: 0.9rem;
+  text-align: center;
+  margin-top: 0.5rem;
 }
