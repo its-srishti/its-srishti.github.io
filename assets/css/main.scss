@@ -217,14 +217,15 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5rem;
 }
 
-/* Fix for pages without author profile – center content */
-.page,
-.page--projects,
-.page--blog {
-  .page__inner-wrap {
-    max-width: 1200px; /* Adjust as needed */
-    margin: 0 auto;    /* Center horizontally */
-    padding-left: 2rem;
-    padding-right: 2rem;
-  }
+/* Add this at the end of your main.scss */
+
+/* Fix left padding imbalance on blog and project pages */
+.layout--single.blog-page .page,
+.layout--single.projects-page .page {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+  max-width: 1100px; /* Adjust if needed */
 }
+
