@@ -2,18 +2,24 @@
 layout: default
 ---
 
-<div class="projects-grid">
-  {% for project in site['projects-posts'] %}
-    <div class="project-card">
-      {% if project.image %}
-        <img src="{{ project.image }}" alt="{{ project.title }} thumbnail">
+<div class="archive">
+  {% assign projects = site['projects-posts'] | sort: 'date' | reverse %}
+  {% for entry in projects %}
+    <div class="archive__item">
+      
+      {% if entry.image %}
+        <div class="archive__item-teaser">
+          <img src="{{ entry.image }}" alt="{{ entry.title }} thumbnail">
+        </div>
       {% endif %}
-      <h2 class="project-title">{{ project.title }}</h2>
-      <p class="project-description">{{ project.description }}</p>
-      {% if project.link %}
-        <a class="project-link" href="{{ project.link }}" target="_blank">View Project</a>
-      {% endif %}
+
+      <h2 class="archive__item-title">
+        <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+      </h2>
+
+      <p class="archive__item-meta">{{ entry.date | date: "%B %d, %Y" }}</p>
+      
     </div>
   {% endfor %}
 </div>
-<p>{{ site['projects-posts'] | size }} projects loaded</p>
+
