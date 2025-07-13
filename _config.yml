@@ -111,6 +111,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+  
+   # _projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      show_date: true
+      teaser: true
 
 collections:
   projects:
