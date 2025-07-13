@@ -216,3 +216,15 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   margin-bottom: 0.5rem;
 }
+
+/* Fix for pages without author profile – center content */
+.page,
+.page--projects,
+.page--blog {
+  .page__inner-wrap {
+    max-width: 1200px; /* Adjust as needed */
+    margin: 0 auto;    /* Center horizontally */
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
