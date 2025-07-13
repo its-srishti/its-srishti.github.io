@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="projects-grid">
+  {% for project in site.projects %}
+    <div class="project-card">
+      {% if project.image %}
+        <img src="{{ project.image }}" alt="{{ project.title }} thumbnail">
+      {% endif %}
+      <h2 class="project-title">{{ project.title }}</h2>
+      <p class="project-description">{{ project.description }}</p>
+      {% if project.link %}
+        <a class="project-link" href="{{ project.link }}" target="_blank">View Project</a>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
