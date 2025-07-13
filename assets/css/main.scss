@@ -217,3 +217,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5rem;
 }
 
+/* ---------------------------------
+   PROJECTS PAGE ONLY (scoped via page--projects)
+---------------------------------- */
+
+.page--projects .archive {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.2rem;
+  
+}
