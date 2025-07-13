@@ -113,10 +113,10 @@ defaults:
       author_profile: true
 
 collections:
-  projects:
+  projects-posts:
     output: true
     permalink: /projects/:name/
-
+    
 category_archive:
   type: liquid
   path: /categories/
