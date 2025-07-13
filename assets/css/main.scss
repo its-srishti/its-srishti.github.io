@@ -130,6 +130,58 @@ h1, h2, h3, h4, h5, h6 {
 
 
 // Projects
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+}
+
+.project-card {
+  background: #1f1f1f;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  padding: 1.2rem;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.project-card img {
+  max-height: 140px;
+  object-fit: cover;
+  width: 100%;
+  border-radius: 6px;
+  margin-bottom: 0.8rem;
+}
+
+.project-title {
+  font-size: 1.1rem;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  text-decoration: none !important;
+  word-wrap: break-word;
+}
+
+.project-description {
+  font-size: 0.95rem;
+  flex-grow: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.project-link {
+  text-align: center;
+  margin-top: 0.6rem;
+  font-weight: bold;
+  display: block;
+  text-decoration: none;
+  color: #66ccff;
+}
+
 .archive {
   display: flex;
   flex-wrap: wrap;
