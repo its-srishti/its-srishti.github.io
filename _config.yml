@@ -113,9 +113,9 @@ defaults:
       author_profile: true
 
 collections:
-  projects-posts:
+  projects:
     output: true
-    permalink: /projects/:name/
+    permalink: /projects/:title/
     
 category_archive:
   type: liquid
