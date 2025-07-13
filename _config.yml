@@ -114,7 +114,7 @@ defaults:
   
    # _projects
   - scope:
-      path: "_projects"
+      path: ""
       type: projects
     values:
       layout: single
