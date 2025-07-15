@@ -1,0 +1,16 @@
+<div class="favourites-section">
+  <h2 class="favourites-heading">{{ include.title }}</h2>
+  <div class="favourites-grid">
+    {% assign items = site.data.favourites[include.category] %}
+    {% for item in items %}
+      <div class="favourites-card">
+        <img src="{{ item.image }}" alt="{{ item.title }} image">
+        <h3 class="card-title">{{ item.title }}</h3>
+        <p class="card-description">{{ item.description }}</p>
+        {% if item.link %}
+          <a href="{{ item.link }}" class="card-link" target="_blank">Learn More</a>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
