@@ -73,7 +73,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:srishti.tripathy07@gmail.com"
 
 footer:
@@ -88,7 +88,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:srishti.tripathy07@gmail.com"
 
 defaults:
