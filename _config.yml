@@ -72,10 +72,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Email (App)"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:srishti.tripathy07@gmail.com"
-    - label: "Email"
+    - label: "Gmail"
       icon: "fas fa-fw fa-envelope"
       url: "https://mail.google.com/mail/?view=cm&to=srishti.tripathy07@gmail.com&su=Connecting%20via%20your%20website&body=Hi%20Srishti%2C%0D%0A%0D%0AI%20found%20your%20website%20and%20wanted%20to%20reach%20out..."
 
@@ -91,9 +88,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Email"
+    - label: "Gmail"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:srishti.tripathy07@gmail.com"
+      url: "https://mail.google.com/mail/?view=cm&to=srishti.tripathy07@gmail.com&su=Connecting%20via%20your%20website&body=Hi%20Srishti%2C%0D%0A%0D%0AI%20found%20your%20website%20and%20wanted%20to%20reach%20out..."
+
 
 defaults:
   # _posts
