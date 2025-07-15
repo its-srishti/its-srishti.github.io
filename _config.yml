@@ -131,6 +131,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
+  favourites:
+    output: true
+    permalink: /:collection/:name/
+
     
 category_archive:
   type: liquid
