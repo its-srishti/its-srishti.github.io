@@ -64,7 +64,7 @@ author:
   bio    : "To Serve. To Create. To Be Free"
   links:
     - label: "Favourites"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-heart"
       url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
