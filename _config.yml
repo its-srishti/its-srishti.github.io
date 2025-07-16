@@ -81,7 +81,7 @@ footer:
   links:
     - label: "Favorites"
       icon: "fas fa-fw fa-heart"
-      url: "https://"
+      url: "https://its-srishti.github.io/favourites/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tripathysrishti/"
