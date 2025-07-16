@@ -1,6 +1,7 @@
 ---
-title: "A Beautiful Mind"
-image: /assets/images/movies/beautiful-mind.jpg
-category: "Movies"
-description: "The story of mathematician John Nash’s battle with schizophrenia and brilliance — intellectually moving."
+title: "Ikigai"
+image: /assets/images/favourites/ikigai.jpg
+excerpt: "A Japanese concept that means 'a reason for being'..."
+date: 2024-01-01
+category: books
 ---
