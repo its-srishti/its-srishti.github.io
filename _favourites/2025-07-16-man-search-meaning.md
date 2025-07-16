@@ -1,6 +1,6 @@
 ---
-title: "Man's Search for Meaning"
-image: /assets/images/books/mans-search.jpg
-category: "Books"
-description: "Viktor Frankl’s powerful memoir and reflection on surviving Auschwitz teaches the importance of purpose in life."
+title: "Ikigai"
+image: /assets/images/favourites/ikigai.jpg
+excerpt: "A Japanese concept that means 'a reason for being'..."
+category: books
 ---
