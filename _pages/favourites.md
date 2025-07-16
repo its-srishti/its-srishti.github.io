@@ -5,13 +5,6 @@ permalink: /favourites/
 classes: wide
 ---
 
----
-layout: single
-title: "Favourites"
-permalink: /favourites/
-classes: wide
----
-
 <style>
 .section-heading {
   font-size: 1.75rem;
