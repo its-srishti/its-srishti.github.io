@@ -1,6 +1,6 @@
 ---
-title: "The Alchemist"
-image: /assets/images/books/alchemist.jpg
-category: "Books"
-description: "A poetic story about destiny, dreams, and listening to the heart. A timeless motivational journey."
+title: "Ikigai"
+image: /assets/images/favourites/ikigai.jpg
+excerpt: "A Japanese concept that means 'a reason for being'..."
+category: books
 ---
