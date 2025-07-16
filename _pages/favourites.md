@@ -4,7 +4,7 @@ title: "Favourites"
 permalink: /favourites/
 collection: favourites
 entries_layout: grid
-classes: wide
+classes: favourites-page
 ---
 
 {% assign favs = site.favourites | sort: 'date' %}
