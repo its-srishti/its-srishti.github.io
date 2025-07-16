@@ -2,7 +2,6 @@
 layout: collection
 title: "Favourites"
 permalink: /favourites/
-entries_layout: grid
 classes: wide
 ---
 
