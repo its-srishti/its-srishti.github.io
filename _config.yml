@@ -131,6 +131,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
+collections:
+  favourites:
+    output: true
+    permalink: /favourites/:title/
 
     
 category_archive:
