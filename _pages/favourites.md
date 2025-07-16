@@ -6,27 +6,18 @@ classes: wide
 ---
 
 <style>
-.section-heading {
-  font-size: 1.75rem;
-  font-weight: 800;
-  margin-top: 3rem;
-  margin-bottom: 1rem;
-  color: #fff;
-  border-bottom: 2px solid #444;
-  padding-bottom: 0.25rem;
-}
 .fav-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 1.5rem;
-  margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 .fav-card {
   background-color: #1e1e1e;
   border-radius: 15px;
   padding: 1rem;
   text-align: center;
-  box-shadow: 0 6px 12px rgba(0,0,0,0.25);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
   color: #fff;
 }
 .fav-card img {
@@ -36,12 +27,14 @@ classes: wide
   border-radius: 10px;
   margin-bottom: 1rem;
 }
-.fav-card .title a {
+.fav-card .title {
   font-size: 1.2rem;
   font-weight: bold;
-  color: #fff;
-  text-decoration: none;
-  transition: all 0.3s ease-in-out;
+  margin-bottom: 0.5rem;
+}
+.fav-card .desc {
+  font-size: 0.9rem;
+  opacity: 0.85;
 }
 .fav-card .title a:hover {
   color: #70e0ff;
