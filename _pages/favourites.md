@@ -121,5 +121,4 @@ classes: wide
     <div class="desc">Van Gogh’s swirls of madness and peace.</div>
   </div>
 </div>
-  <!-- Add more manually here -->
-</div>
+ 
