@@ -1,5 +1,5 @@
 ---
-layout: favourites
+layout: single
 title: "Favourites"
 permalink: /favourites/
 classes: wide
