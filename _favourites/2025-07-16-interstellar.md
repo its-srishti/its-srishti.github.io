@@ -1,6 +1,6 @@
 ---
-title: "Interstellar"
-image: /assets/images/movies/interstellar.jpg
-category: "Movies"
-description: "Science fiction meets emotional depth. A philosophical journey through time, space, and love."
+title: "Ikigai"
+image: /assets/images/favourites/ikigai.jpg
+excerpt: "A Japanese concept that means 'a reason for being'..."
+category: movies
 ---
