@@ -1,4 +1,4 @@
-<section id="{{ section | downcase }}">
+<section class="favourites-section">
   <h2>{{ emoji }} {{ section }}</h2>
   <div class="favourites-grid">
     {% for item in items %}
@@ -7,7 +7,7 @@
       <h3>{{ item.title }}</h3>
       <p>{{ item.description }}</p>
       {% if item.link %}
-        <a class="card-link" href="{{ item.link }}" target="_blank">Explore</a>
+        <a href="{{ item.link }}" target="_blank" rel="noopener">Explore</a>
       {% endif %}
     </div>
     {% endfor %}
