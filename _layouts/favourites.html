@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="favourites-wrapper">
+  {% assign sections = site.data.favourites %}
+  {% for section in sections %}
+    {% assign emoji = section[1].emoji %}
+    {% assign items = section[1].items %}
+    {% assign title = section[0] %}
+    <section id="{{ title | downcase }}">
+      <h2>{{ emoji }} {{ title | capitalize }}</h2>
+      <div class="favourites-grid">
+        {% for item in items %}
+          <div class="favourites-card">
+            <img src="{{ item.image }}" alt="{{ item.title }}">
+            <h3>{{ item.title }}</h3>
+            <p>{{ item.description }}</p>
+            {% if item.link %}
+              <a class="card-link" href="{{ item.link }}" target="_blank">Explore</a>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+</div>
