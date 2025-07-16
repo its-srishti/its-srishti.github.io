@@ -79,8 +79,8 @@ author:
 
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Favorites"
+      icon: "fas fa-fw fa-heart"
       url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
