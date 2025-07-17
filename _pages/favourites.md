@@ -30,7 +30,6 @@ classes: wide
 .fav-card .title {
   font-size: 1.2rem;
   font-weight: bold;
-  margin-bottom: 0.5rem;
 }
 .fav-card .desc {
   font-size: 0.9rem;
