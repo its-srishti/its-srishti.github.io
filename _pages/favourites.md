@@ -60,7 +60,7 @@ classes: wide
     <div class="title">
       <a href="https://www.goodreads.com/book/show/16436557">Jaya: An Illustrated Retelling of Mahabharata</a>
     </div>
-    <div class="desc" style="text-align: justify;">The Yayati Complex - an Indian inwardness, contrasting the West’s Oedipus one. Karma, not chaos. We’re all actors in this grand cosmic theatre, where dharma shapes destiny.</div>
+    <div class="desc" style="text-align: justify;">My opinion: The Yayati Complex - an Indian inwardness - brings people to India in search of themselves. Karma, not chaos. We’re all actors in this grand cosmic theatre, where dharma shapes destiny.</div>
   </div>
 
   <div class="fav-card">
@@ -68,7 +68,7 @@ classes: wide
     <div class="title">
       <a href="https://www.goodreads.com/book/show/18514068-sita" target="_blank">Sita: An Illustrated Retelling of Ramayana</a>
     </div>
-    <div class="desc" style="text-align: justify;">Dharma isn’t just followed - it transforms. Even animals walking the path became divine. Without it, even sages fall. Taught me love means acceptance without expectation. A lesson in grace, in stillness.</div>
+    <div class="desc" style="text-align: justify;">Dharma isn’t just followed - it transforms. Even animals walking the path become divine. Without it, even sages fall. Taught me love means acceptance without expectation. A lesson in grace, in stillness.</div>
   </div>
 
 <div class="fav-card">
@@ -92,7 +92,7 @@ classes: wide
     <div class="title">
       <a href="https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf">The Almanack of Naval Ravikant</a>
     </div>
-    <div class="desc" style="text-align: justify;">Wisdom per hour: priceless. Mindset over mechanics. A book that whispers: play long-term games with long-term people - and buy back your time.</div>
+    <div class="desc" style="text-align: justify;">Aspirational hourly rate. Mindset over mechanics. Long-term games with long-term people. Always play a win-win game. Buy back your time.</div>
   </div>
 
   <div class="fav-card">
