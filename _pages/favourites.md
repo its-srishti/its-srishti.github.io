@@ -22,7 +22,7 @@ classes: wide
 }
 .fav-card img {
   width: 100%;
-  height: 300px;
+  height: 300px; 
   object-fit: cover;
   border-radius: 10px;
   margin-bottom: 1rem;
@@ -36,7 +36,7 @@ classes: wide
   opacity: 0.85;
 }
 .fav-card .title a:hover {
-  color: #70e0ff;
+  color: #498a9c;
 }
 </style>
 
@@ -45,13 +45,13 @@ classes: wide
 <div class="section-heading" style="
   text-align: center;
   font-size: 2rem;
-  font-weight: bold;
+  font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #ffffff;
-  text-shadow: 0 0 5px rgba(255,255,255,0.6), 0 0 10px rgba(255,255,255,0.4);
+  text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 3px rgba(255,255,255,0.4);
   margin: 2rem 0 1.5rem;
-"> 📚 Books </div>
+"> Books </div>
 
 <div class="fav-grid">
   
@@ -114,7 +114,7 @@ classes: wide
   color: #ffffff;
   text-shadow: 0 0 5px rgba(255,255,255,0.6), 0 0 10px rgba(255,255,255,0.4);
   margin: 2rem 0 1.5rem;
-">🎥 Movies</div>
+">Movies</div>
 
 <div class="fav-grid">
   <div class="fav-card">
@@ -137,7 +137,7 @@ classes: wide
   color: #ffffff;
   text-shadow: 0 0 5px rgba(255,255,255,0.6), 0 0 10px rgba(255,255,255,0.4);
   margin: 2rem 0 1.5rem;
-">☕ Beverages</div>
+">Beverages</div>
 
 <div class="fav-grid">
   <div class="fav-card">
@@ -160,7 +160,7 @@ classes: wide
   color: #ffffff;
   text-shadow: 0 0 5px rgba(255,255,255,0.6), 0 0 10px rgba(255,255,255,0.4);
   margin: 2rem 0 1.5rem;
-">💬 Quotes</div>
+">Quotes</div>
 
 <div class="fav-grid">
   <div class="fav-card">
@@ -183,7 +183,7 @@ classes: wide
   color: #ffffff;
   text-shadow: 0 0 5px rgba(255,255,255,0.6), 0 0 10px rgba(255,255,255,0.4);
   margin: 2rem 0 1.5rem;
-">✈️ Travel</div>
+">Travel</div>
 
 <div class="fav-grid">
   <div class="fav-card">
@@ -206,7 +206,7 @@ classes: wide
   color: #ffffff;
   text-shadow: 0 0 5px rgba(255,255,255,0.6), 0 0 10px rgba(255,255,255,0.4);
   margin: 2rem 0 1.5rem;
-">🎨 Art</div>
+">Art</div>
 
 <div class="fav-grid">
   <div class="fav-card">
@@ -229,7 +229,8 @@ classes: wide
   color: #ffffff;
   text-shadow: 0 0 5px rgba(255,255,255,0.6), 0 0 10px rgba(255,255,255,0.4);
   margin: 2rem 0 1.5rem;
-"> 🎧 Music</div>
+  
+"> Music</div>
 
 <div class="fav-grid">
   <div class="fav-card">
