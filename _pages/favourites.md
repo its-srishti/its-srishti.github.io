@@ -89,7 +89,7 @@ classes: wide
   </div>
 
 <div class="fav-card">
-    <img src="/assets/images/favourites/jaya.jpg" alt="The Almanack of Naval Ravikant">
+    <img src="/assets/images/favourites/almanack.jpg" alt="The Almanack of Naval Ravikant">
     <div class="title">
       <a href="https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf">The Almanack of Naval Ravikant</a>
     </div>
