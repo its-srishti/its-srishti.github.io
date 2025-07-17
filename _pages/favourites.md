@@ -122,7 +122,7 @@ classes: wide
     <div class="title">
       <a href="https://www.imdb.com/title/tt0097165/" target="_blank">The Dead Poets Society</a>
     </div>
-    <div class="desc" style="text-align: justify;">A masterpiece on purpose, rebellion, and poetry. Carpe diem dear readers.</div>
+    <div class="desc" style="text-align: justify;">A masterpiece on purpose, rebellion, and poetry. Carpe diem, dear readers.</div>
   </div>
 </div>
 
@@ -132,7 +132,7 @@ classes: wide
     <div class="title">
       <a href="https://www.imdb.com/title/tt0268978/" target="_blank">A Beautiful Mind</a>
     </div>
-    <div class="desc" style="text-align: justify;"> A masterpiece on purpose, rebellion, and poetry. “Carpe diem" my friends</div>
+    <div class="desc" style="text-align: justify;"> Genius and madness can wear the same face. What’s real, what’s imagined, and what keeps us grounded when the mind breaks free?</div>
   </div>
 </div>
 
