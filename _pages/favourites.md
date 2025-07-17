@@ -12,7 +12,6 @@ classes: wide
     padding-top: 2rem;
   }
 
-  
 .fav-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
