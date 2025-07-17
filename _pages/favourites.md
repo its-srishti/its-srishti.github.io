@@ -181,7 +181,7 @@ classes: wide
 
 <div class="fav-grid">
   <div class="fav-card">
-    <img src="/assets/images/favourites/mocha latte.jpg" alt="Mocha Latte">
+    <img src="/assets/images/favourites/mocha latte.jpg" alt="Cafe Mocha">
     <div class="title">
       <a href="https://www.amazon.in/Te-A-Sana-Ginger-Hibiscus-Infusions/dp/B08SK1PG8T" target="_blank">Mocha Latte</a>
     </div>
