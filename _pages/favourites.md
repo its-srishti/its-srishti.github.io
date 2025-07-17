@@ -7,11 +7,6 @@ classes: wide
 
 <style>
 
-.section-container {
-    margin-bottom: 4rem;
-    padding-top: 2rem;
-  }
-
 .fav-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -48,7 +43,7 @@ classes: wide
 
 <!-- Code block for Books-->
 
-<div class="section-container">
+
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
@@ -112,7 +107,7 @@ classes: wide
   
 <!-- Code block for Movies-->
 
-<div class="section-container">
+
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
@@ -156,7 +151,7 @@ classes: wide
 
 <!-- Code block for Beverages-->
 
-<div class="section-container">
+
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
@@ -200,7 +195,7 @@ classes: wide
 
 <!-- Code block for Quotes-->
 
-<div class="section-container">
+
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
@@ -224,7 +219,7 @@ classes: wide
 
 <!-- Code block for Travel-->
 
-<div class="section-container">
+
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
@@ -248,7 +243,7 @@ classes: wide
 
 <!-- Code block for Art-->
 
-<div class="section-container">
+
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
@@ -272,7 +267,7 @@ classes: wide
 
 <!-- Code block for Music-->
 
-<div class="section-container">
+
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
