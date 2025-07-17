@@ -61,7 +61,7 @@ classes: wide
     <div class="title">
       <a href="https://www.goodreads.com/book/show/16436557">Jaya: An Illustrated Retelling of Mahabharata</a>
     </div>
-    <div class="desc">The Yayati Complex — an Indian inwardness, contrasting the West’s Oedipal drama. Karma, not chaos. We’re all actors in this grand cosmic theatre, where dharma shapes destiny.</div>
+    <div class="desc" style="text-align: justify;">The Yayati Complex - an Indian inwardness, contrasting the West’s Oedipus one. Karma, not chaos. We’re all actors in this grand cosmic theatre, where dharma shapes destiny.</div>
   </div>
 
   <div class="fav-card">
@@ -69,7 +69,7 @@ classes: wide
     <div class="title">
       <a href="https://www.goodreads.com/book/show/18514068-sita" target="_blank">Sita: An Illustrated Retelling of Ramayana</a>
     </div>
-    <div class="desc">Dharma isn’t just followed—it transforms. Even animals walking the path became divine. Without it, even sages fall. Taught me love means acceptance without expectation. A lesson in grace, in stillness.</div>
+    <div class="desc" style="text-align: justify;">Dharma isn’t just followed - it transforms. Even animals walking the path became divine. Without it, even sages fall. Taught me love means acceptance without expectation. A lesson in grace, in stillness.</div>
   </div>
 
 <div class="fav-card">
@@ -77,7 +77,7 @@ classes: wide
     <div class="title">
       <a href="https://www.goodreads.com/book/show/1829763.Yajnaseni">Yagyaseni: The Story of Draupadi</a>
     </div>
-    <div class="desc">A poetic retelling of the Mahabharata through Draupadi’s eyes. Rich in imagery, raw in emotion. Her voice flows like fire wrapped in silk.</div>
+    <div class="desc" style="text-align: justify;">A poetic retelling of the Mahabharata through Draupadi’s eyes. Rich in imagery, raw in emotion. Her voice flows like fire wrapped in silk.</div>
   </div>
 
   <div class="fav-card">
@@ -85,7 +85,7 @@ classes: wide
     <div class="title">
       <a href="https://www.goodreads.com/book/show/9777.The_God_of_Small_Things" target="_blank">God of Small Things</a>
     </div>
-    <div class="desc">Lush, lyrical, and brutally honest. A small-town woman’s silent war against caste, patriarchy, and forbidden love. You feel every scar, every soft rebellion.</div>
+    <div class="desc" style="text-align: justify;">Lush, lyrical, and brutally honest. A small-town woman’s silent war against caste, patriarchy, and forbidden love. You feel every scar, every soft rebellion.</div>
   </div>
 
 <div class="fav-card">
@@ -93,7 +93,7 @@ classes: wide
     <div class="title">
       <a href="https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf">The Almanack of Naval Ravikant</a>
     </div>
-    <div class="desc">Wisdom per hour: priceless. Mindset over mechanics. A book that whispers: play long-term games with long-term people — and buy back your time.</div>
+    <div class="desc" style="text-align: justify;">Wisdom per hour: priceless. Mindset over mechanics. A book that whispers: play long-term games with long-term people - and buy back your time.</div>
   </div>
 
   <div class="fav-card">
@@ -101,7 +101,7 @@ classes: wide
     <div class="title">
       <a href="https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird" target="_blank">To Kill A Mockingbird</a>
     </div>
-    <div class="desc">Felt seen in Scout Finch—curious, bold, always asking why. A childhood view on justice that still hits deep. Quiet questions that change everything.</div>
+    <div class="desc" style="text-align: justify;">Felt seen in Scout Finch - curious, bold, always asking why. A childhood view on justice that still hits deep. Quiet questions that change everything.</div>
   </div>
   
 <!-- Code block for Movies-->
@@ -123,7 +123,7 @@ classes: wide
     <div class="title">
       <a href="https://www.imdb.com/title/tt0097165/" target="_blank">Dead Poets Society</a>
     </div>
-    <div class="desc">“Carpe Diem.” A masterpiece on purpose, rebellion, and poetry.</div>
+    <div class="desc" style="text-align: justify;">“Carpe Diem.” A masterpiece on purpose, rebellion, and poetry.</div>
   </div>
 </div>
 
@@ -146,7 +146,7 @@ classes: wide
     <div class="title">
       <a href="https://www.amazon.in/Te-A-Sana-Ginger-Hibiscus-Infusions/dp/B08SK1PG8T" target="_blank">Teasana Lemon Ginger</a>
     </div>
-    <div class="desc">Soothing herbal tea — pure calm in a cup.</div>
+    <div class="desc" style="text-align: justify;">Soothing herbal tea — pure calm in a cup.</div>
   </div>
 </div>
 
@@ -169,7 +169,7 @@ classes: wide
     <div class="title">
       <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
     </div>
-    <div class="desc">A line that always realigns your compass.</div>
+    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div>
 </div>
 
@@ -192,7 +192,7 @@ classes: wide
     <div class="title">
       <a href="#" onclick="return false;">Varanasi</a>
     </div>
-    <div class="desc">Where time stands still, and the soul breathes.</div>
+    <div class="desc" style="text-align: justify;">Where time stands still, and the soul breathes.</div>
   </div>
 </div>
 
@@ -215,7 +215,7 @@ classes: wide
     <div class="title">
       <a href="https://www.vangoghmuseum.nl/en/collection/s0038V1962" target="_blank">Starry Night</a>
     </div>
-    <div class="desc">Van Gogh’s swirls of madness and peace.</div>
+    <div class="desc" style="text-align: justify;">Van Gogh’s swirls of madness and peace.</div>
   </div>
 </div>
 
@@ -238,7 +238,7 @@ classes: wide
     <div class="title">
       <a href="https://www.imdb.com/title/tt0097165/" target="_blank">Dead Poets Society</a>
     </div>
-    <div class="desc">“Carpe Diem.” A masterpiece on purpose, rebellion, and poetry.</div>
+    <div class="desc" style="text-align: justify;">“Carpe Diem.” A masterpiece on purpose, rebellion, and poetry.</div>
   </div>
 </div>
 
