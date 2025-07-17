@@ -44,7 +44,7 @@ classes: wide
 
 <div class="section-heading" style="
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -107,7 +107,7 @@ classes: wide
 
 <div class="section-heading" style="
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -130,7 +130,7 @@ classes: wide
 
 <div class="section-heading" style="
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -153,7 +153,7 @@ classes: wide
 
 <div class="section-heading" style="
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
