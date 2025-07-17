@@ -118,11 +118,31 @@ classes: wide
 
 <div class="fav-grid">
   <div class="fav-card">
-    <img src="/assets/images/favourites/dead-poets.jpg" alt="Dead Poets Society">
+    <img src="/assets/images/favourites/dead poets society.webp" alt="The Dead Poets Society">
     <div class="title">
-      <a href="https://www.imdb.com/title/tt0097165/" target="_blank">Dead Poets Society</a>
+      <a href="https://www.imdb.com/title/tt0097165/" target="_blank">The Dead Poets Society</a>
     </div>
-    <div class="desc" style="text-align: justify;">“Carpe Diem.” A masterpiece on purpose, rebellion, and poetry.</div>
+    <div class="desc" style="text-align: justify;">A masterpiece on purpose, rebellion, and poetry. Carpe diem dear readers.</div>
+  </div>
+</div>
+
+<div class="fav-grid">
+  <div class="fav-card">
+    <img src="/assets/images/favourites/beautiful mind.jpg" alt="A Beautiful Mind">
+    <div class="title">
+      <a href="https://www.imdb.com/title/tt0268978/" target="_blank">A Beautiful Mind</a>
+    </div>
+    <div class="desc" style="text-align: justify;"> A masterpiece on purpose, rebellion, and poetry. “Carpe diem" my friends</div>
+  </div>
+</div>
+
+<div class="fav-grid">
+  <div class="fav-card">
+    <img src="/assets/images/favourites/kill.jpg" alt="Kill">
+    <div class="title">
+      <a href="https://www.imdb.com/title/tt28259207/" target="_blank">Kill</a>
+    </div>
+    <div class="desc" style="text-align: justify;">Of my favourite dancer turned actor. Pure gore. Pure action. Makes you question the sinister play of intent - when the same act can look heroic or horrific.  Who's Rakshas and who's Rakshak?</div>
   </div>
 </div>
 
