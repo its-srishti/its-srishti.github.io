@@ -51,28 +51,5 @@ classes: wide
     <div class="desc">“Carpe Diem.” A film that redefined purpose and poetry.</div>
   </div>
 
-  <div class="fav-card">
-    <img src="/assets/images/favourites/jaya.jpg" alt="Immortal Talks">
-    <div class="title">Immortal Talks</div>
-    <div class="desc"><a href="https://www.amazon.in/dp/B086WPTG5M" target="_blank" rel="noopener">Buy on Amazon</a></div>
-  </div>
-
-<div class="fav-grid">
-  <div class="fav-card">
-    <img src="/assets/images/favourites/sita.jpg" alt="Ikigai">
-    <div class="title">Ikigai</div>
-    <div class="desc">A Japanese concept meaning “a reason for being.”</div>
-  </div>
-
-  <div class="fav-card">
-    <img src="/assets/images/favourites/dead poets society.webp" alt="Dead Poets Society">
-    <div class="title">Dead Poets Society</div>
-    <div class="desc">“Carpe Diem.” A film that redefined purpose and poetry.</div>
-  </div>
-
-  <div class="fav-card">
-    <img src="/assets/images/favourites/jaya.jpg" alt="Immortal Talks">
-    <div class="title">Immortal Talks</div>
-    <div class="desc"><a href="https://www.amazon.in/dp/B086WPTG5M" target="_blank" rel="noopener">Buy on Amazon</a></div>
-  </div>
+  
 </div>
