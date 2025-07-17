@@ -11,6 +11,17 @@ classes: wide
     margin-bottom: 4rem;
     padding-top: 2rem;
   }
+    
+.section-heading {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #ffffff;
+    text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 9px rgba(255,255,255,0.4);
+    margin: 2rem 0 1.5rem;
+  }
   
 .fav-grid {
   display: grid;
@@ -49,16 +60,7 @@ classes: wide
 <!-- Code block for Books-->
 
 <div class="section-container">
-<div class="section-heading" style="
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: normal;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #ffffff;
-  text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 9px rgba(255,255,255,0.4);
-  margin: 2rem 0 1.5rem;
-"> Books </div>
+<div> Books </div>
 
 <div class="fav-grid">
   
@@ -113,16 +115,7 @@ classes: wide
 <!-- Code block for Movies-->
 
 <div class="section-container">
-<div class="section-heading" style="
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: normal;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #ffffff;
-  text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 9px rgba(255,255,255,0.4);
-  margin: 2rem 0 1.5rem;
-">Movies</div>
+<div>Movies</div>
 
 <div class="fav-grid">
   <div class="fav-card">
@@ -157,16 +150,7 @@ classes: wide
 <!-- Code block for Beverages-->
 
 <div class="section-container">
-<div class="section-heading" style="
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: normal;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #ffffff;
-  text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 9px rgba(255,255,255,0.4);
-  margin: 2rem 0 1.5rem;
-">Beverages</div>
+<div>Beverages</div>
 
 <div class="fav-grid">
   <div class="fav-card">
@@ -201,16 +185,7 @@ classes: wide
 <!-- Code block for Quotes-->
 
 <div class="section-container">
-<div class="section-heading" style="
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: normal;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #ffffff;
-  text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 9px rgba(255,255,255,0.4);
-  margin: 2rem 0 1.5rem;
-">Quotes</div>
+<div>Quotes</div>
 
 <div class="fav-grid">
   <div class="fav-card">
@@ -225,16 +200,7 @@ classes: wide
 <!-- Code block for Travel-->
 
 <div class="section-container">
-<div class="section-heading" style="
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: normal;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #ffffff;
-  text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 9px rgba(255,255,255,0.4);
-  margin: 2rem 0 1.5rem;
-">Travel</div>
+<div>Travel</div>
 
 <div class="fav-grid">
   <div class="fav-card">
@@ -249,16 +215,7 @@ classes: wide
 <!-- Code block for Art-->
 
 <div class="section-container">
-<div class="section-heading" style="
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #ffffff;
-  text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 9px rgba(255,255,255,0.4);
-  margin: 2rem 0 1.5rem;
-">Art</div>
+<div>Art</div>
 
 <div class="fav-grid">
   <div class="fav-card">
@@ -273,17 +230,7 @@ classes: wide
 <!-- Code block for Music-->
 
 <div class="section-container">
-<div class="section-heading" style="
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: normal;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #ffffff;
-  text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 9px rgba(255,255,255,0.4);
-  margin: 2rem 0 1.5rem;
-  
-"> Music</div>
+<div> Music</div>
 
 <div class="fav-grid">
   <div class="fav-card">
