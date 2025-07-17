@@ -80,9 +80,9 @@ classes: wide
   </div>
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/gost.jpg" alt="God of Small Things">
+    <img src="/assets/images/favourites/gost.jpg" alt="The God of Small Things">
     <div class="title">
-      <a href="https://www.goodreads.com/book/show/9777.The_God_of_Small_Things" target="_blank">God of Small Things</a>
+      <a href="https://www.goodreads.com/book/show/9777.The_God_of_Small_Things" target="_blank">The God of Small Things</a>
     </div>
     <div class="desc" style="text-align: justify;">Lush, lyrical, and brutally honest. A small-town woman’s silent war against caste, patriarchy, and forbidden love. You feel every scar, every soft rebellion.</div>
   </div>
