@@ -6,6 +6,24 @@ classes: wide
 ---
 
 <style>
+
+.section-container {
+    margin-bottom: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.2); /* optional separator */
+  }
+
+.section-heading {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #ffffff;
+    text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 9px rgba(255,255,255,0.4);
+    margin: 2rem 0 1.5rem;
+  }
+  
 .fav-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -42,6 +60,7 @@ classes: wide
 
 <!-- Code block for Books-->
 
+<div class="section-container">
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
@@ -105,6 +124,7 @@ classes: wide
   
 <!-- Code block for Movies-->
 
+<div class="section-container">
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
@@ -148,6 +168,7 @@ classes: wide
 
 <!-- Code block for Beverages-->
 
+<div class="section-container">
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
@@ -188,8 +209,10 @@ classes: wide
     <div class="desc" style="text-align: justify;">Decaf and without whipped cream. Fun fact - caffine gives me a headache.</div>
   </div>
 </div>
+
 <!-- Code block for Quotes-->
 
+<div class="section-container">
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
@@ -213,6 +236,7 @@ classes: wide
 
 <!-- Code block for Travel-->
 
+<div class="section-container">
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
@@ -236,6 +260,7 @@ classes: wide
 
 <!-- Code block for Art-->
 
+<div class="section-container">
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
@@ -259,6 +284,7 @@ classes: wide
 
 <!-- Code block for Music-->
 
+<div class="section-container">
 <div class="section-heading" style="
   text-align: center;
   font-size: 1.5rem;
