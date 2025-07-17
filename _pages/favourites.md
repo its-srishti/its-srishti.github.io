@@ -196,7 +196,7 @@ classes: wide
     <div class="title">
       <a href="https://varieteaindia.com/product/sparkle-purple-tea-bags/" target="_blank">Blue Tea</a>
     </div>
-    <div class="desc" style="text-align: justify;">Best served lemon.</div>
+    <div class="desc" style="text-align: justify;">Best served with lemon or honey as per taste.</div>
   </div>
 </div>
 
