@@ -161,14 +161,33 @@ classes: wide
 
 <div class="fav-grid">
   <div class="fav-card">
-    <img src="/assets/images/favourites/teasana-lemon.jpg" alt="Teasana Lemon Ginger">
+    <img src="/assets/images/favourites/lemon ginger.jpg" alt="Lemon Ginger Tea">
     <div class="title">
-      <a href="https://www.amazon.in/Te-A-Sana-Ginger-Hibiscus-Infusions/dp/B08SK1PG8T" target="_blank">Teasana Lemon Ginger</a>
+      <a href="https://varieteaindia.com/product/teasana-lemon-ginger-tea/" target="_blank">Lemon Ginger Tea</a>
     </div>
-    <div class="desc" style="text-align: justify;">Soothing herbal tea — pure calm in a cup.</div>
+    <div class="desc" style="text-align: justify;">Pure calm in a cup.</div>
   </div>
 </div>
 
+<div class="fav-grid">
+  <div class="fav-card">
+    <img src="/assets/images/favourites/blue tea.jpg" alt="Blue Tea">
+    <div class="title">
+      <a href="https://varieteaindia.com/product/sparkle-purple-tea-bags/" target="_blank">Blue Tea</a>
+    </div>
+    <div class="desc" style="text-align: justify;">Best served lemon.</div>
+  </div>
+</div>
+
+<div class="fav-grid">
+  <div class="fav-card">
+    <img src="/assets/images/favourites/mocha latte.jpg" alt="Mocha Latte">
+    <div class="title">
+      <a href="https://www.amazon.in/Te-A-Sana-Ginger-Hibiscus-Infusions/dp/B08SK1PG8T" target="_blank">Mocha Latte</a>
+    </div>
+    <div class="desc" style="text-align: justify;">Decaf and without whipped cream. Fun fact - caffine gives me a headache.</div>
+  </div>
+</div>
 <!-- Code block for Quotes-->
 
 <div class="section-heading" style="
