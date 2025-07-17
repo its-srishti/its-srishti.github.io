@@ -12,16 +12,6 @@ classes: wide
     padding-top: 2rem;
   }
 
-.section-heading {
-    text-align: center;
-    font-size: 1.5rem;
-    font-weight: normal;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color: #ffffff;
-    text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 9px rgba(255,255,255,0.4);
-    margin: 2rem 0 1.5rem;
-  }
   
 .fav-grid {
   display: grid;
