@@ -215,63 +215,63 @@ classes: wide
   <div class="fav-card">
     <img src="/assets/images/favourites/dps.jpeg" alt="dps">
     <div class="title">
-      <a href="#" onclick="return false;">"The Dead Poets Society"</a>
+      <a href="#" onclick="return false;">The Dead Poets Society</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/fill.jpeg" alt="fill">
     <div class="title">
-      <a href="#" onclick="return false;">"The Fill.”</a>
-    </div>
-  </div>
-
-  <div class="fav-card">
-    <img src="/assets/images/favourites/path.jpeg" alt="path">
-    <div class="title">
-      <a href="#" onclick="return false;">“The Path”</a>
+      <a href="#" onclick="return false;">The Fill</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/woo.jpeg" alt="woo">
     <div class="title">
-      <a href="#" onclick="return false;">"Consider Me Wooed”</a>
+      <a href="#" onclick="return false;">Consider Me Wooed</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/zindagi.jpeg" alt="zindagi">
     <div class="title">
-      <a href="#" onclick="return false;">“Zindagi”</a>
+      <a href="#" onclick="return false;">Zindagi</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/rooted.jpeg" alt="peace">
     <div class="title">
-      <a href="#" onclick="return false;">“Peace”</a>
+      <a href="#" onclick="return false;">Peace</a>
+    </div>
+  </div>
+
+  <div class="fav-card">
+    <img src="/assets/images/favourites/path.jpeg" alt="path">
+    <div class="title">
+      <a href="#" onclick="return false;">The Path</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/arjuna.jpeg" alt="sakha">
     <div class="title">
-      <a href="#" onclick="return false;">“Sakha”</a>
+      <a href="#" onclick="return false;">Sakha</a>
     </div>
   </div> 
 
   <div class="fav-card">
     <img src="/assets/images/favourites/big goal.jpeg" alt="Dumb">
     <div class="title">
-      <a href="#" onclick="return false;">“Dumb”</a>
+      <a href="#" onclick="return false;">Dumb</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/cold water.jpeg" alt="cold to warm">
     <div class="title">
-      <a href="#" onclick="return false;">“Cold To Warm”</a>
+      <a href="#" onclick="return false;">Cold To Warm</a>
     </div>
   </div> 
 
