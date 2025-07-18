@@ -269,9 +269,9 @@ classes: wide
   </div>
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/cold water.jpeg" alt="cold to warm">
+    <img src="/assets/images/favourites/resist.jpeg" alt="resist">
     <div class="title">
-      <a href="#" onclick="return false;">Cold To Warm</a>
+      <a href="#" onclick="return false;">Resist</a>
     </div>
   </div> 
 
