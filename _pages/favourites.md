@@ -296,7 +296,7 @@ classes: wide
   <div class="fav-card">
     <img src="/assets/images/favourites/manikarnika.jpeg" alt="Manikarnika">
     <div class="title">
-      <a href="#" onclick="return false;">Manikarnika</a>
+      <a href="#" onclick="return false;">Manikarnika Ghat</a>
     </div>
     <div class="desc" style="text-align: justify;">To feel death up close and learn to appreciate each and every moment of my life I so take for granted.</div>
   </div>
@@ -304,7 +304,7 @@ classes: wide
    <div class="fav-card">
     <img src="/assets/images/favourites/kailash.jpeg" alt="Kailash">
     <div class="title">
-      <a href="#" onclick="return false;">Kailash</a>
+      <a href="#" onclick="return false;">Trek To Kailash Mansarovar</a>
     </div>
     <div class="desc" style="text-align: justify;">To experience the essence of Shiva, the formless absolute divine.</div>
   </div>
