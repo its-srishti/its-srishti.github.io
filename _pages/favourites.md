@@ -393,28 +393,4 @@ classes: wide
 
 </div>
 
-<!-- Code block for Music-->
-
-<div class="section-container">
-<div class="section-heading" style="
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: normal;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #ffffff;
-  text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 9px rgba(255,255,255,0.4);
-  margin: 2rem 0 1.5rem;
-"> Music</div>
-
-<div class="fav-grid">
-    
-  <div class="fav-card">
-    <img src="/assets/images/favourites/dead-poets.jpg" alt="Dead Poets Society">
-    <div class="title">
-      <a href="https://www.imdb.com/title/tt0097165/" target="_blank">Dead Poets Society</a>
-    </div>
-    <div class="desc" style="text-align: justify;">“Carpe Diem.” A masterpiece on purpose, rebellion, and poetry.</div>
-  </div>
-</div>
 
