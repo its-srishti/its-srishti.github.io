@@ -133,7 +133,6 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;">A masterpiece on purpose, rebellion, and poetry. Carpe diem, dear readers.</div>
   </div>
-</div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/beautiful mind.jpg" alt="A Beautiful Mind">
@@ -142,7 +141,6 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;"> Genius and madness can wear the same face. What’s real, what’s imagined, and what keeps us grounded when the mind breaks free?</div>
   </div>
-</div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/kill.jpg" alt="Kill">
@@ -151,7 +149,6 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;">Of my favourite dancer turned actor. Pure gore. Pure action. Makes you question the sinister play of intent - when the same act can look heroic or horrific.  Who's Rakshas and who's Rakshak?</div>
   </div>
-</div>
 
 <!-- Code block for Beverages-->
 
@@ -176,7 +173,6 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;">Pure calm in a cup.</div>
   </div>
-</div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/blue tea.jpg" alt="Blue Tea">
@@ -185,7 +181,6 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;">Best served with lemon or honey as per taste.</div>
   </div>
-</div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/mocha latte.jpg" alt="Cafe Mocha">
@@ -194,7 +189,6 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;">Decaf and without whipped cream. Fun fact - caffine gives me a headache.</div>
   </div>
-</div>
 
 <!-- Code block for Quotes-->
 
@@ -217,7 +211,6 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div>
-</div>
 
 <!-- Code block for Travel-->
 
@@ -242,7 +235,6 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;">Where time stands still, and the soul breathes.</div>
   </div>
-</div>
 
 <!-- Code block for Art-->
 
@@ -267,7 +259,6 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;">Van Gogh’s swirls of madness and peace.</div>
   </div>
-</div>
 
 <!-- Code block for Music-->
 
