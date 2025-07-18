@@ -367,30 +367,5 @@ classes: wide
 
 </div>
 
-<!-- Code block for Art-->
-
-<div class="section-container">
-<div class="section-heading" style="
-  text-align: center;
-  font-size: 1.5rem;
-  font-weight: normal;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #ffffff;
-  text-shadow: 0 0 3px rgba(255,255,255,0.6), 0 0 9px rgba(255,255,255,0.4);
-  margin: 2rem 0 1.5rem;
-">Art</div>
-
-<div class="fav-grid">
-    
-  <div class="fav-card">
-    <img src="/assets/images/favourites/starry-night.jpg" alt="Starry Night">
-    <div class="title">
-      <a href="https://www.vangoghmuseum.nl/en/collection/s0038V1962" target="_blank">Starry Night</a>
-    </div>
-    <div class="desc" style="text-align: justify;">Van Gogh’s swirls of madness and peace.</div>
-  </div>
-
-</div>
 
 
