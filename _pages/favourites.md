@@ -294,11 +294,75 @@ classes: wide
 <div class="fav-grid">
     
   <div class="fav-card">
-    <img src="/assets/images/favourites/varanasi.jpg" alt="Varanasi">
+    <img src="/assets/images/favourites/manikarnika.jpeg" alt="Manikarnika">
     <div class="title">
-      <a href="#" onclick="return false;">Varanasi</a>
+      <a href="#" onclick="return false;">Manikarnika</a>
     </div>
-    <div class="desc" style="text-align: justify;">Where time stands still, and the soul breathes.</div>
+    <div class="desc" style="text-align: justify;">To feel death up close and learn to appreciate each and every moment of my life I so take for granted.</div>
+  </div>
+
+   <div class="fav-card">
+    <img src="/assets/images/favourites/kailash.jpeg" alt="Kailash">
+    <div class="title">
+      <a href="#" onclick="return false;">Kailash</a>
+    </div>
+    <div class="desc" style="text-align: justify;">To experience the essence of Shiva, the formless absolute divine.</div>
+  </div>
+
+   <div class="fav-card">
+    <img src="/assets/images/favourites/gulmarg.jpeg" alt="Gulmarg">
+    <div class="title">
+      <a href="#" onclick="return false;">Gulmarg</a>
+    </div>
+    <div class="desc" style="text-align: justify;">To make snow angel and click a picture under a snow bedecked pine tree.</div>
+  </div>
+
+   <div class="fav-card">
+    <img src="/assets/images/favourites/Masai.jpeg" alt="Masai Mara">
+    <div class="title">
+      <a href="#" onclick="return false;">Masai Mara</a>
+    </div>
+    <div class="desc" style="text-align: justify;">To experience animals in their natural habitat, free and unafraid. </div>
+  </div>
+
+   <div class="fav-card">
+    <img src="/assets/images/favourites/Isha.jpeg" alt="Isha Foundation">
+    <div class="title">
+      <a href="#" onclick="return false;">Isha Foundation, Coimbatore</a>
+    </div>
+    <div class="desc" style="text-align: justify;">To experience yog and meditation the Adiyogi way. Fun fact - yoga comes from Adiyogi or Lord Shiva himself.</div>
+  </div>
+
+   <div class="fav-card">
+    <img src="/assets/images/favourites/el atneo.jpeg" alt="El Atneo">
+    <div class="title">
+      <a href="#" onclick="return false;">El Atneo</a>
+    </div>
+    <div class="desc" style="text-align: justify;">A bibliophile’s paradise.</div>
+  </div>
+
+   <div class="fav-card">
+    <img src="/assets/images/favourites/atlantic.jpeg" alt="Atlantic Road Norway">
+    <div class="title">
+      <a href="#" onclick="return false;">Atlanti Road Norway</a>
+    </div>
+    <div class="desc" style="text-align: justify;">Windows down, under a starry sky. P.s. - I have a diary full of places I dream to travel.</div>
+  </div>
+
+   <div class="fav-card">
+    <img src="/assets/images/favourites/ayodhya.jpeg" alt="Ayodhya">
+    <div class="title">
+      <a href="#" onclick="return false;">Ayodhya</a>
+    </div>
+    <div class="desc" style="text-align: justify;">Experienced the stillness of a Vaishnavite.</div>
+  </div>
+
+   <div class="fav-card">
+    <img src="/assets/images/favourites/pangong.jpeg" alt="Pangong">
+    <div class="title">
+      <a href="#" onclick="return false;">Pangon</a>
+    </div>
+    <div class="desc" style="text-align: justify;">Captured this with bare eyes. Saw countless shooting stars. Fumbled on my dreams on many of them. I was under performance pressure, they came so fast. P.s. - It was a zero degree outside.</div>
   </div>
 
 </div>
