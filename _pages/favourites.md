@@ -183,7 +183,7 @@ classes: wide
     <div class="title">
       <a href="https://varieteaindia.com/product/sparkle-purple-tea-bags/" target="_blank">Blue Tea</a>
     </div>
-    <div class="desc" style="text-align: justify;">Best served with lemon or honey as per taste.</div>
+    <div class="desc" style="text-align: justify;">Best served with lemon or honey as per taste. Fun fact - lemon turns the tea purple.</div>
   </div>
 
   <div class="fav-card">
@@ -217,6 +217,71 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div>
+
+  <div class="fav-card">
+    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <div class="title">
+      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+    </div>
+    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
+  </div>
+
+  <div class="fav-card">
+    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <div class="title">
+      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+    </div>
+    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
+  </div>
+
+  <div class="fav-card">
+    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <div class="title">
+      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+    </div>
+    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
+  </div>
+
+  <div class="fav-card">
+    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <div class="title">
+      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+    </div>
+    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
+  </div>
+
+  <div class="fav-card">
+    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <div class="title">
+      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+    </div>
+    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
+  </div>
+
+  <div class="fav-card">
+    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <div class="title">
+      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+    </div>
+    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
+  </div> 
+
+  <div class="fav-card">
+    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <div class="title">
+      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+    </div>
+    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
+  </div>
+
+  <div class="fav-card">
+    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <div class="title">
+      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+    </div>
+    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
+  </div> 
+
 
 </div>
 
