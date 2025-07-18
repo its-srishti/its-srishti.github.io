@@ -152,6 +152,7 @@ classes: wide
     <div class="desc" style="text-align: justify;">Of my favourite dancer turned actor. Pure gore. Pure action. Makes you question the sinister play of intent - when the same act can look heroic or horrific.  Who's Rakshas and who's Rakshak?</div>
   </div>
 
+</div>
 
 <!-- Code block for Beverages-->
 
@@ -193,6 +194,8 @@ classes: wide
     <div class="desc" style="text-align: justify;">Decaf and without whipped cream. Fun fact - caffine gives me a headache.</div>
   </div>
 
+</div>
+
 <!-- Code block for Quotes-->
 
 <div class="section-container">
@@ -214,6 +217,8 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div>
+
+</div>
 
 <!-- Code block for Travel-->
 
@@ -239,6 +244,8 @@ classes: wide
     <div class="desc" style="text-align: justify;">Where time stands still, and the soul breathes.</div>
   </div>
 
+</div>
+
 <!-- Code block for Art-->
 
 <div class="section-container">
@@ -262,6 +269,8 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;">Van Gogh’s swirls of madness and peace.</div>
   </div>
+
+</div>
 
 <!-- Code block for Music-->
 
@@ -288,4 +297,3 @@ classes: wide
   </div>
 </div>
 
-</div>
