@@ -326,11 +326,11 @@ classes: wide
   </div>
 
    <div class="fav-card">
-    <img src="/assets/images/favourites/Isha.jpeg" alt="Isha Foundation">
+    <img src="/assets/images/favourites/ayodhya stillness.jpeg" alt="Ayodhya">
     <div class="title">
-      <a href="#" onclick="return false;">Isha Foundation, Coimbatore</a>
+      <a href="#" onclick="return false;">Ayodhya</a>
     </div>
-    <div class="desc" style="text-align: justify;">To experience yog and meditation the Adiyogi way. Fun fact - yoga comes from Adiyogi or Lord Shiva himself.</div>
+   <div class="desc" style="text-align: justify;">Experienced the stillness of a Vaishnavite.</div>
   </div>
 
    <div class="fav-card">
@@ -350,11 +350,11 @@ classes: wide
   </div>
 
    <div class="fav-card">
-    <img src="/assets/images/favourites/ayodhya.jpeg" alt="Ayodhya">
+    <img src="/assets/images/favourites/Isha.jpeg" alt="Isha Foundation">
     <div class="title">
-      <a href="#" onclick="return false;">Ayodhya</a>
+      <a href="#" onclick="return false;">Isha Foundation, Coimbatore</a>
     </div>
-    <div class="desc" style="text-align: justify;">Experienced the stillness of a Vaishnavite.</div>
+   <div class="desc" style="text-align: justify;">To experience yog and meditation the Adiyogi way. Fun fact - yoga comes from Adiyogi or Lord Shiva himself.</div>
   </div>
 
    <div class="fav-card">
