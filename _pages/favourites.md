@@ -318,7 +318,7 @@ classes: wide
   </div>
 
    <div class="fav-card">
-    <img src="/assets/images/favourites/Masai.jpeg" alt="Masai Mara">
+    <img src="/assets/images/favourites/masai.jpeg" alt="Masai Mara">
     <div class="title">
       <a href="#" onclick="return false;">Masai Mara</a>
     </div>
@@ -342,9 +342,9 @@ classes: wide
   </div>
 
    <div class="fav-card">
-    <img src="/assets/images/favourites/atlantic.jpeg" alt="Atlantic Road Norway">
+    <img src="/assets/images/favourites/atlantic.jpg" alt="Atlantic Road Norway">
     <div class="title">
-      <a href="#" onclick="return false;">Atlanti Road Norway</a>
+      <a href="#" onclick="return false;">Atlantic Road Norway</a>
     </div>
     <div class="desc" style="text-align: justify;">Windows down, under a starry sky. P.s. - I have a diary full of places I dream to travel.</div>
   </div>
