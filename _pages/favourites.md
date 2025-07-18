@@ -79,6 +79,14 @@ classes: wide
   </div>
 
   <div class="fav-card">
+    <img src="/assets/images/favourites/almanack.jpg" alt="The Almanack of Naval Ravikant">
+    <div class="title">
+      <a href="https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf">The Almanack of Naval Ravikant</a>
+    </div>
+    <div class="desc" style="text-align: justify;">Aspirational hourly rate. Mindset over mechanics. Long-term games with long-term people. Always play a win-win game. Buy back your time.</div>
+  </div>
+
+  <div class="fav-card">
     <img src="/assets/images/favourites/yagyaseni.jpg" alt="Yagyaseni: The Story of Draupadi">
     <div class="title">
       <a href="https://www.goodreads.com/book/show/1829763.Yajnaseni">Yagyaseni: The Story of Draupadi</a>
@@ -92,14 +100,6 @@ classes: wide
       <a href="https://www.goodreads.com/book/show/9777.The_God_of_Small_Things" target="_blank">The God of Small Things</a>
     </div>
     <div class="desc" style="text-align: justify;">Lush, lyrical, and brutally honest. A small-town woman’s silent war against caste, patriarchy, and forbidden love. You feel every scar, every soft rebellion.</div>
-  </div>
-
-  <div class="fav-card">
-    <img src="/assets/images/favourites/almanack.jpg" alt="The Almanack of Naval Ravikant">
-    <div class="title">
-      <a href="https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf">The Almanack of Naval Ravikant</a>
-    </div>
-    <div class="desc" style="text-align: justify;">Aspirational hourly rate. Mindset over mechanics. Long-term games with long-term people. Always play a win-win game. Buy back your time.</div>
   </div>
 
   <div class="fav-card">
@@ -330,7 +330,7 @@ classes: wide
     <div class="title">
       <a href="#" onclick="return false;">Ayodhya</a>
     </div>
-   <div class="desc" style="text-align: justify;">Experienced the stillness of a Vaishnavite.</div>
+    <div class="desc" style="text-align: justify;">Experienced the stillness of a Vaishnavite.</div>
   </div>
 
    <div class="fav-card">
@@ -354,7 +354,7 @@ classes: wide
     <div class="title">
       <a href="#" onclick="return false;">Isha Foundation, Coimbatore</a>
     </div>
-   <div class="desc" style="text-align: justify;">To experience yog and meditation the Adiyogi way. Fun fact - yoga comes from Adiyogi or Lord Shiva himself.</div>
+    <div class="desc" style="text-align: justify;">To experience yog and meditation the Adiyogi way. Fun fact - yoga comes from Adiyogi or Lord Shiva himself.</div>
   </div>
 
    <div class="fav-card">
