@@ -210,6 +210,8 @@ classes: wide
   margin: 2rem 0 1.5rem;
 ">Quotes</div>
 
+<div class="fav-grid">
+    
   <div class="fav-card">
     <img src="/assets/images/favourites/dps.jpeg" alt="dps">
     <div class="title">
