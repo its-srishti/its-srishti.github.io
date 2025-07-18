@@ -211,77 +211,67 @@ classes: wide
 ">Quotes</div>
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <img src="/assets/images/favourites/dps.jpg" alt="dps">
     <div class="title">
-      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+      <a href="#" onclick="return false;">"The Dead Poets Society"</a>
     </div>
-    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div>
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <img src="/assets/images/favourites/fill.jpg" alt="fill">
     <div class="title">
-      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+      <a href="#" onclick="return false;">"The Fill.”</a>
     </div>
-    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div>
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <img src="/assets/images/favourites/path.jpg" alt="path">
     <div class="title">
-      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+      <a href="#" onclick="return false;">“The Path”</a>
     </div>
-    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div>
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <img src="/assets/images/favourites/woo.jpg" alt="woo">
     <div class="title">
-      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+      <a href="#" onclick="return false;">"Consider Me Wooed”</a>
     </div>
-    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div>
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <img src="/assets/images/favourites/zindagi.jpg" alt="zindagi">
     <div class="title">
-      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+      <a href="#" onclick="return false;">“Zindagi”</a>
     </div>
-    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div>
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <img src="/assets/images/favourites/rooted.jpg" alt="peace">
     <div class="title">
-      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+      <a href="#" onclick="return false;">“Peace”</a>
     </div>
-    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div>
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <img src="/assets/images/favourites/arjuna.jpg" alt="sakha">
     <div class="title">
-      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+      <a href="#" onclick="return false;">“Sakha”</a>
     </div>
-    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div> 
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <img src="/assets/images/favourites/big goal.jpg" alt="Dumb">
     <div class="title">
-      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+      <a href="#" onclick="return false;">“Dumb”</a>
     </div>
-    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div>
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/ikigai-quote.jpg" alt="Ikigai Quote">
+    <img src="/assets/images/favourites/cold water.jpg" alt="cold to warm">
     <div class="title">
-      <a href="#" onclick="return false;">“The purpose of life is to find your ikigai.”</a>
+      <a href="#" onclick="return false;">“Cold To Warm”</a>
     </div>
-    <div class="desc" style="text-align: justify;">A line that always realigns your compass.</div>
   </div> 
-
 
 </div>
 
