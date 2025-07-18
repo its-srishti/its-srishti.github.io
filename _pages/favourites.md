@@ -360,7 +360,7 @@ classes: wide
    <div class="fav-card">
     <img src="/assets/images/favourites/pangong.jpeg" alt="Pangong">
     <div class="title">
-      <a href="#" onclick="return false;">Pangon</a>
+      <a href="#" onclick="return false;">Pangong</a>
     </div>
     <div class="desc" style="text-align: justify;">Captured this with bare eyes. Saw countless shooting stars. Fumbled on my dreams on many of them. I was under performance pressure, they came so fast. P.s. - It was a zero degree outside.</div>
   </div>
