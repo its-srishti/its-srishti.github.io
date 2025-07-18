@@ -78,7 +78,7 @@ classes: wide
     <div class="desc" style="text-align: justify;">Dharma isn’t just followed - it transforms. Even animals walking the path become divine. Without it, even sages fall. Taught me love means acceptance without expectation. A lesson in grace, in stillness.</div>
   </div>
 
-<div class="fav-card">
+  <div class="fav-card">
     <img src="/assets/images/favourites/yagyaseni.jpg" alt="Yagyaseni: The Story of Draupadi">
     <div class="title">
       <a href="https://www.goodreads.com/book/show/1829763.Yajnaseni">Yagyaseni: The Story of Draupadi</a>
@@ -94,7 +94,7 @@ classes: wide
     <div class="desc" style="text-align: justify;">Lush, lyrical, and brutally honest. A small-town woman’s silent war against caste, patriarchy, and forbidden love. You feel every scar, every soft rebellion.</div>
   </div>
 
-<div class="fav-card">
+  <div class="fav-card">
     <img src="/assets/images/favourites/almanack.jpg" alt="The Almanack of Naval Ravikant">
     <div class="title">
       <a href="https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf">The Almanack of Naval Ravikant</a>
@@ -109,6 +109,8 @@ classes: wide
     </div>
     <div class="desc" style="text-align: justify;">Felt seen in Scout Finch - curious, bold, always asking why. A childhood view on justice that still hits deep. Quiet questions that change everything.</div>
   </div>
+
+</div>
   
 <!-- Code block for Movies-->
 
