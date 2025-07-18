@@ -227,14 +227,14 @@ classes: wide
   </div>
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/woo.jpeg" alt="woo">
+    <img src="/assets/images/favourites/a problem.jpeg" alt="a problem">
     <div class="title">
-      <a href="#" onclick="return false;">Consider Me Wooed</a>
+      <a href="#" onclick="return false;">A Problem</a>
     </div>
   </div>
 
   <div class="fav-card">
-    <img src="/assets/images/favourites/zindagi.jpeg" alt="zindagi">
+    <img src="/assets/images/favourites/zind.jpeg" alt="zindagi">
     <div class="title">
       <a href="#" onclick="return false;">Zindagi</a>
     </div>
