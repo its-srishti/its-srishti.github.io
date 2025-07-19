@@ -11,5 +11,5 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Categories"
-    url:  /categories/
+  - title: "Test"
+    url:  /test/
