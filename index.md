@@ -131,7 +131,7 @@ body {
       </p>
     </div>
     <div class="portrait">
-      <img src="portrait.jpg" alt="Portrait of Srishti" />
+      <img src="Picture1.png alt="Portrait of Srishti" />
     </div>
   </div>
 
