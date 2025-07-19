@@ -1,1 +1,26 @@
+---
+layout: default
+---
+
+<div class="archive">
+  {% assign projects = site['projects-posts'] | sort: 'date' | reverse %}
+  {% for entry in projects %}
+    <div class="archive__item">
+      
+      {% if entry.image %}
+        <div class="archive__item-teaser">
+          <img src="{{ entry.image }}" alt="{{ entry.title }} thumbnail">
+        </div>
+      {% endif %}
+
+      <h2 class="archive__item-title">
+        <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+      </h2>
+
+      <p class="archive__item-meta">{{ entry.date | date: "%B %d, %Y" }}</p>
+      
+    </div>
+  {% endfor %}
+</div>
+
 
