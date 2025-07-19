@@ -8,40 +8,57 @@ permalink: /
   body {
     background-color: #1e1e1e;
     color: #f0f0f0;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
   }
 
   .homepage-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5vh 5vw;
     text-align: center;
-    margin: 10vh auto;
-    max-width: 700px;
-    padding: 2rem;
   }
 
   .homepage-container img {
+    width: 40vw;
+    max-width: 200px;
+    height: auto;
     border-radius: 50%;
-    width: 250px;
-    height: 250px;
     object-fit: cover;
     box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    margin-bottom: 1rem;
   }
 
   .homepage-container h1 {
-    margin-top: 1rem;
-    font-size: 2rem;
-    font-weight: 700;
+    font-size: 6vw;
+    max-width: 90%;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 0.15em solid #f0f0f0;
+    animation: typing 3s steps(30, end), blink 0.75s step-end infinite;
   }
 
-  .homepage-container p.lead {
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  @keyframes blink {
+    50% { border-color: transparent }
+  }
+
+  .lead {
     font-size: 1.1rem;
-    margin: 1rem auto;
+    margin: 1rem 0;
     max-width: 600px;
   }
 
-  .homepage-container em {
-    display: block;
-    margin-top: 1rem;
+  em {
     font-style: italic;
     color: #aaa;
+    margin-top: 1rem;
   }
 
   .homepage-button {
@@ -56,10 +73,26 @@ permalink: /
     text-decoration: none;
     border-radius: 6px;
     transition: background-color 0.3s ease;
+    font-size: 1rem;
   }
 
   .homepage-button a:hover {
     background-color: #003f5c;
+  }
+
+  @media (max-width: 600px) {
+    .homepage-container h1 {
+      font-size: 8vw;
+    }
+
+    .lead {
+      font-size: 1rem;
+    }
+
+    .homepage-container img {
+      width: 50vw;
+      max-width: 150px;
+    }
   }
 </style>
 
