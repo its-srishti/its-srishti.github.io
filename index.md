@@ -14,13 +14,13 @@
       --font-body: 'Lora', serif;
     }
 
-   {
+    * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
     }
 
-  body {
+    body {
       font-family: var(--font-body);
       background: var(--bg-dark);
       color: var(--text-secondary);
@@ -33,12 +33,12 @@
       animation: subtleZoom 30s infinite alternate ease-in-out;
     }
 
-   @keyframes subtleZoom {
+    @keyframes subtleZoom {
       0% { transform: scale(1); }
       100% { transform: scale(1.01); }
     }
 
-  .container {
+    .container {
       max-width: 1000px;
       display: flex;
       flex-direction: row;
@@ -49,15 +49,15 @@
       animation: fadeIn 2s ease 2.5s forwards;
     }
 
-   @keyframes fadeIn {
+    @keyframes fadeIn {
       to { opacity: 1; }
     }
 
-   .text-content {
+    .text-content {
       flex: 1 1 400px;
     }
 
-   .typewriter {
+    .typewriter {
       font-family: var(--font-heading);
       font-size: 2.5rem;
       color: var(--text-primary);
@@ -68,22 +68,22 @@
       animation: typing 2s steps(14, end), blink-caret 0.7s step-end infinite;
     }
 
-  @keyframes typing {
+    @keyframes typing {
       from { width: 0 }
       to { width: 9ch }
     }
 
-  @keyframes blink-caret {
+    @keyframes blink-caret {
       50% { border-color: transparent; }
     }
 
-   .description {
+    .description {
       margin-top: 1.5rem;
       font-size: 1.1rem;
       line-height: 1.6;
     }
 
-   .poetic-line {
+    .poetic-line {
       margin-top: 1.2rem;
       font-style: italic;
       font-weight: 400;
@@ -91,19 +91,19 @@
       color: #aaa;
     }
 
-  .portrait {
+    .portrait {
       flex: 1 1 300px;
       max-width: 300px;
     }
 
-   .portrait img {
-      width: 50%;
+    .portrait img {
+      width: 100%;
       height: auto;
       border-radius: 1rem;
       object-fit: cover;
     }
 
-  @media (max-width: 768px) {
+    @media (max-width: 768px) {
       .container {
         flex-direction: column;
         align-items: center;
@@ -117,7 +117,7 @@
 </head>
 <body>
   <div class="text-content">
-    <div class="typewriter">Hi, I am Srishti.</div>
+    <div class="typewriter">I am Srishti.</div>
   </div>
 
   <div class="container">
@@ -130,7 +130,7 @@
       </p>
     </div>
     <div class="portrait">
-      <img src="Picture1.jpg" alt="Portrait of Srishti" />
+      <img src="portrait.jpg" alt="Portrait of Srishti" />
     </div>
   </div>
 
