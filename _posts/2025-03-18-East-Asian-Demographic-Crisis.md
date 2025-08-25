@@ -15,7 +15,6 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen></iframe>
 
 <br>
-<br>
 <p style="text-align: center;"><strong>Building the Compendium (2024)</strong></p>
 
 Curiosity turned into structure. I created a report of global demographic data, diving into reports, case studies, and statistics on fertility, aging, and workforce dynamics and put it up for our Economics society's monthly compendium. The compendium couldn't come to fruition due to various reasons, but around the same time, India’s fiery debate on the 90-hour work week caught my attention, and I began connecting the dots between work culture, family life, and demographics. My interest piqued. 
