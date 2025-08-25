@@ -3,7 +3,6 @@ title: "East-Asian Demographic Crisis: Lessons For India Amidst The Debate of 90
 date: 2025-03-18T15:34:30-04:00
 tags:
 ---
-<p style="text-align: center;"><strong>This line is bold and centered</strong></p>
 <p style="text-align: center;"><strong>Research Journey Timeline</strong></p>
 
 <p style="text-align: center;"><strong>Discovery (2024)</strong></p>
