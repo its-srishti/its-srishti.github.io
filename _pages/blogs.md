@@ -1,8 +1,4 @@
 ---
-layout: collection
-title: Blogs
-permalink: /https://medium.com/me/stories/public/
-collection: projects
-entries_layout: grid
-classes: wide 
+layout: redirect
+redirect_to: "https://medium.com/me/stories/public/"
 ---
