@@ -1,10 +1,6 @@
 ---
-title: "Post: Notice"
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - notice
+title: "Project Lakshmi: Raghurajpur"
+date: 2025-08-01T15:34:30-04:00
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
