@@ -1,5 +1,6 @@
 ---
 title: "Blockchain in International Trade: A Sectoral Analysis of Supply Chain Dynamics in India"
+date: 2025-03-27T15:34:30-04:00
 ---
 
 This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
