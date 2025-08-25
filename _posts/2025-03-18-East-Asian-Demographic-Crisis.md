@@ -4,24 +4,17 @@ date: 2025-03-18T15:34:30-04:00
 tags:
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+📖 Research Journey Timeline
+1️⃣ Discovery (2024)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+It all began with a random YouTube video on falling fertility rates. What looked like just another demographic fact soon revealed itself as a deeper global crisis — nations like Japan, South Korea, and China were heading toward population collapse. This curiosity sparked the start of my research journey.
 
-Jekyll also offers powerful support for code snippets:
+2️⃣ Building the Compendium (2024)
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+Curiosity turned into structure. I created a compendium of global demographic data, diving into reports, case studies, and statistics on fertility, aging, and workforce dynamics. Around the same time, India’s fiery debate on the 90-hour work week caught my attention, and I began connecting the dots between work culture, family life, and demographics.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+3️⃣ The Paper (2025)
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+The insights converged into a full research paper: East-Asian Demographic Crisis: Lessons for India Amidst the Debate of 90 Hours Work Week. The paper examines how overwork, unaffordable childcare, and gender gaps contributed to East Asia’s demographic decline — and how India can avoid repeating the same mistakes.
 
 <a href="{{ site.baseurl }}/assets/pdfs/East Asian Demographic Crisis.pdf">Read my Research</a>
