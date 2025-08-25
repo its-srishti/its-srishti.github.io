@@ -9,6 +9,11 @@ tags:
 
 It all began with a random YouTube video on falling fertility rates. What looked like just another demographic fact soon revealed itself as a deeper global crisis — nations like Japan, South Korea, and China were heading toward population collapse. This curiosity sparked the start of my research journey.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 2️⃣ Building the Compendium (2024)
 
 Curiosity turned into structure. I created a compendium of global demographic data, diving into reports, case studies, and statistics on fertility, aging, and workforce dynamics. Around the same time, India’s fiery debate on the 90-hour work week caught my attention, and I began connecting the dots between work culture, family life, and demographics.
