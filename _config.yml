@@ -106,9 +106,9 @@ defaults:
       show_date: true
       teaser: true
       
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
