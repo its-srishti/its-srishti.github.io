@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: Blogs
-permalink: /blog/
+title: Projects
+permalink: /projects/
 collection: posts
 entries_layout: grid
 classes: wide
