@@ -20,10 +20,10 @@ allowfullscreen></iframe>
 
 Curiosity turned into structure. I created a report of global demographic data, diving into reports, case studies, and statistics on fertility, aging, and workforce dynamics and put it up for our Economics society's monthly compendium. The compendium couldn't come to fruition due to various reasons, but around the same time, India’s fiery debate on the 90-hour work week caught my attention, and I began connecting the dots between work culture, family life, and demographics. My interest piqued. 
 
-<center><a href="{{ site.baseurl }}/assets/pdfs/Aging Population.pdf">Read my Research</a><center>
+<center><a href="{{ site.baseurl }}/assets/pdfs/Aging Population.pdf">Ageing Population and Workforce Challenges with Special Focus on Japan</a><center>
 
 <center>The Paper (2025)<center>
 
 The insights converged into a full research paper: East-Asian Demographic Crisis: Lessons for India Amidst the Debate of 90 Hours Work Week. The paper examines how overwork, unaffordable childcare, and gender gaps contributed to East Asia’s demographic decline — and how India can avoid repeating the same mistakes.
 
-<a href="{{ site.baseurl }}/assets/pdfs/East Asian Demographic Crisis.pdf">Read my Research</a>
+<a href="{{ site.baseurl }}/assets/pdfs/East Asian Demographic Crisis.pdf">East-Asian Demographic Crisis: Lessons For India Amidst The Debate of 90 Hours Work Week</a>
