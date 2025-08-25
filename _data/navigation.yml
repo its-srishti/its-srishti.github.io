@@ -6,7 +6,7 @@ main:
     url: /about/
 
   - title: "Blog"
-    url: /blog/
+    url: "https://medium.com/me/stories/public/"
 
   - title: "Projects"
     url: /projects/
