@@ -4,7 +4,8 @@ date: 2025-03-18T15:34:30-04:00
 tags:
 ---
 
-📖 Research Journey Timeline
+Research Journey Timeline
+
 1️⃣ Discovery (2024)
 
 It all began with a random YouTube video on falling fertility rates. What looked like just another demographic fact soon revealed itself as a deeper global crisis — nations like Japan, South Korea, and China were heading toward population collapse. This curiosity sparked the start of my research journey.
