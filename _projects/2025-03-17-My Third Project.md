@@ -7,5 +7,5 @@ permalink: /projects/:title/
 teaser: /assets/images/Untitled design.png
 ---
 
-<a href="{{ site.baseurl }}/assets/pdfs/my_research.pdf">Read my Research</a>
+<a href="{{ site.baseurl }}/assets/pdfs/East Asian Demographic Crisis.pdf">Read my Research</a>
 
