@@ -15,7 +15,7 @@ I’ve sometimes been called a ‘rebel without a cause’, and I am not sure wh
 
 Over time, I’ve come to distill all of this into a simple philosophy, a motto that drives me forward:
 
-<div style="text-align: center">  *To Serve. To Create. To Be Free.* <div> 
+<div style="text-align: center">  *To Serve. To Create. To Be Free.* </div> 
 
 There’s no purpose in life if it’s not meant to serve. There’s no greater service than creating value. There’s no greater freedom than doing both. 
 
