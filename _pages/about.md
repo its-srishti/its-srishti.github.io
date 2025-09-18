@@ -17,8 +17,8 @@ Over time, I’ve come to distill all of this into a simple philosophy, a motto 
 
 <div style= "text-align: center">  <div style="font-style: italic">  To Serve. To Create. To Be Free. </div> </div> 
 
-<div style="text-align: centre">
-There’s no purpose in life if it’s not meant to serve. There’s no greater service than creating value. There’s no greater freedom than doing both. </div>
+<div style="text-align: centre"> There’s no purpose in life if it’s not meant to serve. There’s no greater service than creating value. There’s no greater freedom than doing both. </div>
+ 
 
 
 
