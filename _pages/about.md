@@ -5,6 +5,19 @@ title: "About"
 author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I have always thought of myself as a curious human, perhaps closest in spirit to Scout Finch from To Kill a Mockingbird. Unlike Scout, my love affair with books didn’t begin until I was eleven, but since then I’ve rarely been seen without one.  I can easily read a Yves Hilpisch on Python as I can a Khaled Hosseini on redemption and childhood. I love learning as much as I love questioning. Small talk gets me awkward and I end up giving a full day assessment on a ‘how are you’ question. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Beyond projects which I take up, I am, at my core, a simple and spiritual being. Eastern philosophies sustain me. Hinduism’s Karmayoga, or the action with detachment from fruit, and Taoisms’s Wu Wei, or working with natural currents have shaped me. Stoicism, a Greek philosophy, has lent me steadiness necessary for my curious and empathetic mind. 
+
+Beyond books and philosophies, I love being updated on geopolitical and economic news which are oftentimes connected. I am a logophile and sometimes I write poetry.
+
+I’ve sometimes been called a ‘rebel without a cause’, and I am not sure whether to take it as a compliment or not. But I believe every human has the power to create change and right a wrong. I refuse to waste that power. 
+
+Over time, I’ve come to distill all of this into a simple philosophy, a motto that drives me forward:
+
+<div style="text-align: center;"> To Serve. To Create. To Be Free. <div>
+
+There’s no purpose in life if it’s not meant to serve. There’s no greater service than creating value. There’s no greater freedom than doing both. 
+
+
+
