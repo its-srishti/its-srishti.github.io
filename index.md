@@ -41,7 +41,7 @@ permalink: /
     display: block;
     margin-top: 1rem;
     font-style: italic;
-    color: #aaa;
+    color:#363636;
   }
 
   .homepage-button {
