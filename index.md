@@ -22,7 +22,7 @@ permalink: /
     width: 250px;
     height: 250px;
     object-fit: cover;
-    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
   }
 
   .homepage-container h1 {
