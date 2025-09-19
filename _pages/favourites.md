@@ -19,11 +19,11 @@ classes: wide
   margin-top: 2rem;
 }
 .fav-card {
-  background-color: #1e1e1e;
+  background-color: #050000;
   border-radius: 15px;
   padding: 1rem;
   text-align: center;
-  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.5);
   color: #fff;
 }
 .fav-card img {
