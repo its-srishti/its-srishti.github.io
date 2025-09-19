@@ -36,7 +36,6 @@ classes: wide
 .fav-card .title {
   font-size: 1.2rem;
   font-weight: normal;
-    color: #ad0000;
 }
 .fav-card .desc {
   font-size: 0.9rem;
@@ -65,7 +64,7 @@ classes: wide
   
   <div class="fav-card">
     <img src="/assets/images/favourites/jaya.jpg" alt="Jaya: An Illustrated Retelling of Mahabharata">
-    <div class="title">
+    <div class="title" style="color: #ad0000;">
       <a href="https://www.goodreads.com/book/show/16436557">Jaya: An Illustrated Retelling of Mahabharata</a>
     </div>
     <div class="desc" style="text-align: justify;">My opinion: The Yayati Complex - an Indian inwardness - brings people to India in search of themselves. Karma, not chaos. We’re all actors in this grand cosmic theatre, where dharma shapes destiny.</div>
