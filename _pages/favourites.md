@@ -55,8 +55,8 @@ classes: wide
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #050000;
-  text-shadow: 0 0 3px rgba(38,38,38,0.6), 0 0 9px rgba(38,38,38,0.4);
+  color: #8f0303;
+  text-shadow: 0 0 3px rgba(38,38,38,0.4), 0 0 9px rgba(38,38,38,0.4);
   margin: 2rem 0 1.5rem;
 "> Books </div>
 
@@ -121,8 +121,8 @@ classes: wide
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #050000;
-  text-shadow: 0 0 3px rgba(38,38,38,0.6), 0 0 9px rgba(38,38,38,0.4);
+  color: #8f0303;
+  text-shadow: 0 0 3px rgba(38,38,38,0.4), 0 0 9px rgba(38,38,38,0.4);
   margin: 2rem 0 1.5rem;
 ">Movies</div>
 
@@ -163,8 +163,8 @@ classes: wide
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #050000;
-  text-shadow: 0 0 3px rgba(38,38,38,0.6), 0 0 9px rgba(38,38,38,0.4);
+  color: #8f0303;
+  text-shadow: 0 0 3px rgba(38,38,38,0.4), 0 0 9px rgba(38,38,38,0.4);
   margin: 2rem 0 1.5rem;
 ">Beverages</div>
 
@@ -205,8 +205,8 @@ classes: wide
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #050000;
-  text-shadow: 0 0 3px rgba(38,38,38,0.6), 0 0 9px rgba(38,38,38,0.4);
+  color: #8f0303;
+  text-shadow: 0 0 3px rgba(38,38,38,0.4), 0 0 9px rgba(38,38,38,0.4);
   margin: 2rem 0 1.5rem;
 ">Quotes</div>
 
@@ -286,8 +286,8 @@ classes: wide
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #050000;
-  text-shadow: 0 0 3px rgba(38,38,38,0.6), 0 0 9px rgba(38,38,38,0.4);
+  color: #8f0303;
+  text-shadow: 0 0 3px rgba(38,38,38,0.4), 0 0 9px rgba(38,38,38,0.4);
   margin: 2rem 0 1.5rem;
 ">Travel</div>
 
