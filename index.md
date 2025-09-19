@@ -6,8 +6,8 @@ permalink: /
 
 <style>
   body {
-    background-color: #1e1e1e;
-    color: #f0f0f0;
+    background-color: #f0f0f0;
+    color: #1e1e1e;
   }
 
   .homepage-container {
