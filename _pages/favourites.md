@@ -36,14 +36,14 @@ classes: wide
 .fav-card .title {
   font-size: 1.2rem;
   font-weight: normal;
-  color: #ad0000; 
+    color: #ad0000;
 }
 .fav-card .desc {
   font-size: 0.9rem;
   opacity: 0.85;
 }
 .fav-card .title a:hover {
-  color: #a1a1a1;
+  color: #8f0303;
 }
 </style>
 
