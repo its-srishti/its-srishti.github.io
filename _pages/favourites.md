@@ -66,6 +66,7 @@ classes: wide
     <img src="/assets/images/favourites/jaya.jpg" alt="Jaya: An Illustrated Retelling of Mahabharata">
     <div class="title" style="color: #ad0000;">
     </div>
+    <a>Jaya: An Illustrated Retelling of Mahabharata</a>
     <div class="desc" style="text-align: justify;">My opinion: The Yayati Complex - an Indian inwardness - brings people to India in search of themselves. Karma, not chaos. We’re all actors in this grand cosmic theatre, where dharma shapes destiny.</div>
   </div>
 
