@@ -42,7 +42,7 @@ classes: wide
   opacity: 0.85;
 }
 .fav-card .title a:hover {
-  color: #363636;
+  color: #a1a1a1;
 }
 </style>
 
