@@ -64,10 +64,11 @@ classes: wide
   
   <div class="fav-card">
     <img src="/assets/images/favourites/jaya.jpg" alt="Jaya: An Illustrated Retelling of Mahabharata">
-    <div class="title" style="color: #ad0000">
+    <div class="title">
+      <a href="https://www.goodreads.com/book/show/16436557" target="_blank">Jaya: An Illustrated Retelling of Mahabharata</a>
     </div>
-      <a href="https://www.goodreads.com/book/show/16436557">Jaya: An Illustrated Retelling of Mahabharata</a>
-    <div class="desc" style="text-align: justify;">My opinion: The Yayati Complex - an Indian inwardness - brings people to India in search of themselves. Karma, not chaos. We’re all actors in this grand cosmic theatre, where dharma shapes destiny.</div>
+    <div class="desc" style="text-align: justify;">My opinion: The Yayati Complex - an Indian inwardness - brings people to India in search of themselves. Karma, not chaos. We’re all actors in this grand cosmic theatre, where dharma shapes destiny.
+    </div>
   </div>
 
   <div class="fav-card">
@@ -359,7 +360,7 @@ classes: wide
 
    <div class="fav-card">
     <img src="/assets/images/favourites/pangong.jpeg" alt="Pangong">
-    <div class="title" style="color: #ad0000>
+    <div class="title" style="color: #ad0000;>
       <a onclick="return false;">Pangong</a>
     </div>
     <div class="desc" style="text-align: justify;">Captured this with bare eyes. Saw countless shooting stars. Fumbled on my dreams on many of them. I was under performance pressure, they came so fast. P.s. - It was a zero degree outside.</div>
