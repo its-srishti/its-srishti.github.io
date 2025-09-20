@@ -29,6 +29,7 @@ permalink: /
     margin-top: 1rem;
     font-size: 2rem;
     font-weight: 700;
+    text-transform: capitalize;
   }
 
   .homepage-container p.lead {
