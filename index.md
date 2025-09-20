@@ -42,6 +42,7 @@ permalink: /
     margin-top: 1rem;
     font-style: italic;
     color:#363636;
+    font-size: 1.1rem;
   }
 
   .homepage-button {
@@ -69,7 +70,7 @@ permalink: /
   <h1>Srishti Tripathy</h1>
 
   <p class="lead">
-    Economics. Finance. Mathematics
+    Economics. Finance. Mathematics.
   </p>
 
   <em>"The only way out, is through."</em>
