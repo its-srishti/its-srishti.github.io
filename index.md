@@ -20,20 +20,20 @@ permalink: /
   .homepage-container img {
     border-radius: 50%;
     width: 250px;
-    height: 250px;
+    height: 500px;
     object-fit: cover;
     box-shadow: 0 0 15px rgba(0,0,0,0.5);
   }
 
   .homepage-container h1 {
     margin-top: 1rem;
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 700;
     text-transform: uppercase;
   }
 
   .homepage-container p.lead {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     margin: 1rem auto;
     max-width: 600px;
   }
@@ -43,7 +43,7 @@ permalink: /
     margin-top: 1rem;
     font-style: italic;
     color:#363636;
-    font-size: 1.1rem;
+    font-size: 2.1rem;
   }
 
   .homepage-button {
