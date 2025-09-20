@@ -19,8 +19,8 @@ permalink: /
 
   .homepage-container img {
     border-radius: 50%;
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
     object-fit: cover;
     box-shadow: 0 0 15px rgba(0,0,0,0.5);
   }
