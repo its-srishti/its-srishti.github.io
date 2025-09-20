@@ -19,7 +19,7 @@ permalink: /
 
   .homepage-container img {
     border-radius: 50%;
-    width: 250px;
+    width: 500px;
     height: 500px;
     object-fit: cover;
     box-shadow: 0 0 15px rgba(0,0,0,0.5);
