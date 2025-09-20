@@ -27,13 +27,13 @@ permalink: /
 
   .homepage-container h1 {
     margin-top: 1rem;
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 700;
     text-transform: uppercase;
   }
 
   .homepage-container p.lead {
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin: 1rem auto;
     max-width: 600px;
   }
@@ -43,7 +43,7 @@ permalink: /
     margin-top: 1rem;
     font-style: italic;
     color:#363636;
-    font-size: 2.1rem;
+    font-size: 1.6rem;
   }
 
   .homepage-button {
