@@ -72,7 +72,7 @@ permalink: /
     Economics. Finance. Mathematics
   </p>
 
-  <em>"The only way out is through."</em>
+  <em>"The only way out, is through."</em>
 
   <div class="homepage-button">
     <a href="/about/">Explore More</a>
