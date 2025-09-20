@@ -66,13 +66,13 @@ permalink: /
 <div class="homepage-container">
   <img src="assets/images/WhatsApp Image 2025-09-19 at 6.22.31 PM.jpeg" alt="Srishti Tripathy">
 
-  <h1>Hi, I'm Srishti</h1>
+  <h1>Srishti Tripathy</h1>
 
   <p class="lead">
-    I am an economics and finance researcher passionate about decoding the world’s most pressing challenges. My work lies at the intersection of global macro trends, data analysis, and policy insight — bridging complex ideas and real-world impact.
+    Economics. Finance. Mathematics
   </p>
 
-  <em>"I write about how the world works — and sometimes, how it doesn’t."</em>
+  <em>"The only way out is through."</em>
 
   <div class="homepage-button">
     <a href="/about/">Explore More</a>
