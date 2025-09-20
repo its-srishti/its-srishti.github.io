@@ -68,7 +68,7 @@ permalink: /
 <div class="homepage-container">
   <img src="assets/images/WhatsApp Image 2025-09-19 at 6.22.31 PM.jpeg" alt="Srishti Tripathy">
 
-  <h1>Srishti Tripathy</h1>
+  <h1>SRISHTI TRIPATHY</h1>
 
   <p class="lead">
     Economics. Finance. Mathematics.
