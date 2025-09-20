@@ -32,7 +32,7 @@ permalink: /
   }
 
   .homepage-container p.lead {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     margin: 1rem auto;
     max-width: 600px;
   }
