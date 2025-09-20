@@ -216,63 +216,63 @@ classes: wide
   <div class="fav-card">
     <img src="/assets/images/favourites/dps.jpeg" alt="dps">
     <div class="title">
-      <a href="#" onclick="return false;">The Dead Poets Society</a>
+      <a onclick="return false;">The Dead Poets Society</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/fill.jpeg" alt="fill">
     <div class="title">
-      <a href="#" onclick="return false;">The Fill</a>
+      <a onclick="return false;">The Fill</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/a problem.jpeg" alt="a problem">
     <div class="title">
-      <a href="#" onclick="return false;">A Problem</a>
+      <a onclick="return false;">A Problem</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/zindagi.jpeg" alt="zindagi">
     <div class="title">
-      <a href="#" onclick="return false;">Zindagi</a>
+      <a onclick="return false;">Zindagi</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/rooted.jpeg" alt="peace">
     <div class="title">
-      <a href="#" onclick="return false;">Peace</a>
+      <a onclick="return false;">Peace</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/path.jpeg" alt="path">
     <div class="title">
-      <a href="#" onclick="return false;">The Path</a>
+      <a onclick="return false;">The Path</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/arjuna.jpeg" alt="sakha">
     <div class="title">
-      <a href="#" onclick="return false;">Sakha</a>
+      <a onclick="return false;">Sakha</a>
     </div>
   </div> 
 
   <div class="fav-card">
     <img src="/assets/images/favourites/big goal.jpeg" alt="Dumb">
     <div class="title">
-      <a href="#" onclick="return false;">Dumb</a>
+      <a onclick="return false;">Dumb</a>
     </div>
   </div>
 
   <div class="fav-card">
     <img src="/assets/images/favourites/resist.jpeg" alt="resist">
     <div class="title">
-      <a href="#" onclick="return false;">Resist</a>
+      <a onclick="return false;">Resist</a>
     </div>
   </div> 
 
@@ -297,7 +297,7 @@ classes: wide
   <div class="fav-card">
     <img src="/assets/images/favourites/manikarnika.jpeg" alt="Manikarnika">
     <div class="title">
-      <a href="#" onclick="return false;">Manikarnika Ghat</a>
+      <a onclick="return false;">Manikarnika Ghat</a>
     </div>
     <div class="desc" style="text-align: justify;">To feel death up close and learn to appreciate each and every moment of my life I so take for granted.</div>
   </div>
@@ -305,7 +305,7 @@ classes: wide
    <div class="fav-card">
     <img src="/assets/images/favourites/kailash.jpeg" alt="Kailash">
     <div class="title">
-      <a href="#" onclick="return false;">Trek To Kailash Mansarovar</a>
+      <a onclick="return false;">Trek To Kailash Mansarovar</a>
     </div>
     <div class="desc" style="text-align: justify;">To experience the essence of Shiva, the formless absolute divine.</div>
   </div>
@@ -313,7 +313,7 @@ classes: wide
    <div class="fav-card">
     <img src="/assets/images/favourites/gulmarg.jpeg" alt="Gulmarg">
     <div class="title">
-      <a href="#" onclick="return false;">Gulmarg</a>
+      <a onclick="return false;">Gulmarg</a>
     </div>
     <div class="desc" style="text-align: justify;">To make snow angel and click a picture under a snow bedecked pine tree.</div>
   </div>
@@ -321,7 +321,7 @@ classes: wide
    <div class="fav-card">
     <img src="/assets/images/favourites/masai.jpeg" alt="Masai Mara">
     <div class="title">
-      <a href="#" onclick="return false;">Masai Mara</a>
+      <a onclick="return false;">Masai Mara</a>
     </div>
     <div class="desc" style="text-align: justify;">To experience animals in their natural habitat, free and unafraid. </div>
   </div>
@@ -329,7 +329,7 @@ classes: wide
    <div class="fav-card">
     <img src="/assets/images/favourites/ayodhya stillness.jpeg" alt="Ayodhya">
     <div class="title">
-      <a href="#" onclick="return false;">Ayodhya</a>
+      <a onclick="return false;">Ayodhya</a>
     </div>
     <div class="desc" style="text-align: justify;">Experienced the stillness of a Vaishnavite.</div>
   </div>
@@ -337,7 +337,7 @@ classes: wide
    <div class="fav-card">
     <img src="/assets/images/favourites/el atneo.jpeg" alt="El Atneo">
     <div class="title">
-      <a href="#" onclick="return false;">El Atneo</a>
+      <a onclick="return false;">El Atneo</a>
     </div>
     <div class="desc" style="text-align: justify;">A bibliophile’s paradise.</div>
   </div>
@@ -345,7 +345,7 @@ classes: wide
    <div class="fav-card">
     <img src="/assets/images/favourites/atlantic.jpg" alt="Atlantic Road Norway">
     <div class="title">
-      <a href="#" onclick="return false;">Atlantic Road Norway</a>
+      <a onclick="return false;">Atlantic Road Norway</a>
     </div>
     <div class="desc" style="text-align: justify;">Windows down, under a starry sky. P.s. - I have a diary full of places I dream to travel.</div>
   </div>
@@ -353,7 +353,7 @@ classes: wide
    <div class="fav-card">
     <img src="/assets/images/favourites/Isha.jpeg" alt="Isha Foundation">
     <div class="title">
-      <a href="#" onclick="return false;">Isha Foundation, Coimbatore</a>
+      <a onclick="return false;">Isha Foundation, Coimbatore</a>
     </div>
     <div class="desc" style="text-align: justify;">To experience yog and meditation the Adiyogi way. Fun fact - yoga comes from Adiyogi or Lord Shiva himself.</div>
   </div>
